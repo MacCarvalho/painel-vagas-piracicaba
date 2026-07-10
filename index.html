@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Busque e filtre vagas de emprego na cidade de Piracicaba de forma simples e rápida com painel interativo de estatísticas e filtros avançados de busca.">
+  <title>Painel de Vagas de Piracicaba - Filtros e Busca de Vagas</title>
+  
+  <!-- Fontes do Google -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- CSS Principal -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Cabeçalho Principal -->
+  <header class="main-header">
+    <div class="container header-container">
+      <div class="brand">
+        <div class="logo-icon">
+          <i class="fa-solid fa-briefcase"></i>
+        </div>
+        <div class="brand-text">
+          <h1>Painel de Vagas Piracicaba</h1>
+          <p class="subtitle">Busca facilitada e filtros inteligentes para o CAT municipal</p>
+        </div>
+      </div>
+      
+      <div class="header-actions">
+        <div class="update-badge" id="update-badge">
+          <i class="fa-regular fa-clock"></i>
+          <span>Atualizando...</span>
+        </div>
+        
+        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Alternar Tema">
+          <i class="fa-solid fa-sun icon-sun"></i>
+          <i class="fa-solid fa-moon icon-moon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="container">
+    
+    <!-- Painel de Estatísticas -->
+    <section class="stats-section" aria-label="Estatísticas Gerais">
+      <div class="stats-grid">
+        <div class="stat-card" id="stat-total-jobs">
+          <div class="stat-icon icon-blue">
+            <i class="fa-solid fa-file-invoice-dollar"></i>
+          </div>
+          <div class="stat-details">
+            <span class="stat-val" id="val-total-jobs">-</span>
+            <span class="stat-label">Total de Vagas</span>
+          </div>
+        </div>
+        
+        <div class="stat-card" id="stat-no-experience">
+          <div class="stat-icon icon-green">
+            <i class="fa-solid fa-user-check"></i>
+          </div>
+          <div class="stat-details">
+            <span class="stat-val" id="val-no-experience">-</span>
+            <span class="stat-label">Sem Experiência Exigida</span>
+          </div>
+        </div>
+        
+        <div class="stat-card" id="stat-cities">
+          <div class="stat-icon icon-purple">
+            <i class="fa-solid fa-location-dot"></i>
+          </div>
+          <div class="stat-details">
+            <span class="stat-val" id="val-cities">-</span>
+            <span class="stat-label">Cidades Atendidas</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Barra de Filtros e Busca -->
+    <section class="filter-section" aria-label="Busca e Filtros">
+      <div class="search-box-container">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input type="text" id="search-input" placeholder="Pesquisar por cargo, descrição, empresa, local de trabalho..." aria-label="Buscar vagas">
+        <button id="clear-search-btn" class="clear-search-btn" aria-label="Limpar busca">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      
+      <div class="filters-grid">
+        <!-- Filtro por Escolaridade -->
+        <div class="filter-control">
+          <label for="filter-education"><i class="fa-solid fa-graduation-cap"></i> Escolaridade</label>
+          <select id="filter-education" aria-label="Filtrar por Escolaridade">
+            <option value="all">Todas as Escolaridades</option>
+            <!-- Preenchido via Javascript -->
+          </select>
+        </div>
+
+        <!-- Filtro por Experiência -->
+        <div class="filter-control">
+          <label for="filter-experience"><i class="fa-solid fa-circle-info"></i> Experiência</label>
+          <select id="filter-experience" aria-label="Filtrar por Experiência">
+            <option value="all">Qualquer Experiência</option>
+            <option value="none">Sem Exigência de Experiência</option>
+            <option value="required">Com Exigência de Experiência</option>
+          </select>
+        </div>
+
+        <!-- Filtro por Cidade / Restrição -->
+        <div class="filter-control">
+          <label for="filter-city"><i class="fa-solid fa-city"></i> Cidade do Candidato</label>
+          <select id="filter-city" aria-label="Filtrar por Cidade de Residência">
+            <option value="all">Qualquer Localidade</option>
+            <!-- Preenchido via Javascript -->
+          </select>
+        </div>
+
+        <!-- Ordenação -->
+        <div class="filter-control">
+          <label for="sort-select"><i class="fa-solid fa-arrow-down-wide-short"></i> Ordenar por</label>
+          <select id="sort-select" aria-label="Ordenar resultados">
+            <option value="default">Ordem Padrão (Ordem de publicação)</option>
+            <option value="title-asc">Cargo (A-Z)</option>
+            <option value="title-desc">Cargo (Z-A)</option>
+            <option value="salary-desc">Maior Salário</option>
+            <option value="salary-asc">Menor Salário</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="active-filters-row" id="active-filters-row" style="display: none;">
+        <span class="active-filters-label">Filtros ativos:</span>
+        <div class="active-filters-tags" id="active-filters-tags"></div>
+        <button id="reset-filters-btn" class="reset-filters-btn">Limpar Todos</button>
+      </div>
+    </section>
+
+    <!-- Lista de Vagas -->
+    <section class="results-section">
+      <div class="results-header">
+        <h2 class="results-title">Vagas Disponíveis</h2>
+        <span class="results-count" id="results-count">Encontrando vagas...</span>
+      </div>
+
+      <!-- Grid de Vagas -->
+      <div class="jobs-grid" id="jobs-grid">
+        <!-- Cards de vagas serão inseridos dinamicamente aqui -->
+      </div>
+      
+      <!-- Estado Vazio -->
+      <div class="empty-state" id="empty-state" style="display: none;">
+        <div class="empty-icon">
+          <i class="fa-regular fa-face-frown"></i>
+        </div>
+        <h3>Nenhuma vaga encontrada</h3>
+        <p>Tente ajustar seus termos de busca ou remover alguns filtros para ver mais vagas.</p>
+        <button id="reset-empty-btn" class="btn btn-primary">Limpar Todos os Filtros</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal de Detalhes da Vaga -->
+  <div class="modal-backdrop" id="job-modal" role="dialog" aria-modal="true" aria-labelledby="modal-job-title" style="display: none;">
+    <div class="modal-card">
+      <header class="modal-header">
+        <h2 id="modal-job-title" class="modal-title">Título da Vaga</h2>
+        <button id="close-modal-btn" class="close-modal-btn" aria-label="Fechar modal">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </header>
+      
+      <div class="modal-body">
+        <!-- Badges / Info rápida -->
+        <div class="modal-info-grid">
+          <div class="modal-info-item">
+            <span class="info-label"><i class="fa-solid fa-money-bill-wave"></i> Salário</span>
+            <span class="info-value" id="modal-job-salary">-</span>
+          </div>
+          <div class="modal-info-item">
+            <span class="info-label"><i class="fa-solid fa-circle-check"></i> Experiência</span>
+            <span class="info-value" id="modal-job-experience">-</span>
+          </div>
+          <div class="modal-info-item">
+            <span class="info-label"><i class="fa-solid fa-graduation-cap"></i> Escolaridade</span>
+            <span class="info-value" id="modal-job-education">-</span>
+          </div>
+          <div class="modal-info-item">
+            <span class="info-label"><i class="fa-solid fa-location-dot"></i> Moradores de</span>
+            <span class="info-value" id="modal-job-location">-</span>
+          </div>
+        </div>
+
+        <div class="modal-section">
+          <h3>Descrição e Atividades</h3>
+          <p id="modal-job-description" class="job-full-description">Detalhes da vaga...</p>
+        </div>
+
+        <div class="modal-alert-box">
+          <div class="alert-icon">
+            <i class="fa-solid fa-circle-exclamation"></i>
+          </div>
+          <div class="alert-content">
+            <strong>Importante:</strong>
+            <span id="modal-job-deadline">Prazo de candidatura até...</span>
+          </div>
+        </div>
+      </div>
+
+      <footer class="modal-footer">
+        <button id="btn-cancel-modal" class="btn btn-secondary">Fechar</button>
+        <a id="btn-apply" href="https://forms.gle/iL881nZnsE2XfLTJ9" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-apply">
+          Candidatar-se na Prefeitura <i class="fa-solid fa-arrow-up-right-from-square"></i>
+        </a>
+      </footer>
+    </div>
+  </div>
+
+  <!-- Rodapé -->
+  <footer class="main-footer">
+    <div class="container footer-content">
+      <p>Desenvolvido para organizar de forma aberta e acessível as vagas públicas da cidade de Piracicaba/SP.</p>
+      <p class="disclaimer">Aviso: Este painel é independente e não tem qualquer filiação direta com a Prefeitura. Os dados são atualizados automaticamente a partir do portal oficial.</p>
+      <p class="copyright">&copy; 2026 - Painel Público de Vagas</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="vagas.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
