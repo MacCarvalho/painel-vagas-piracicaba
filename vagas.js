@@ -1,5 +1,5 @@
 const VAGAS_DATA = {
-  "last_updated": "12/07/2026 às 19:09",
+  "last_updated": "13/07/2026 às 03:19",
   "total_jobs": 60,
   "jobs": [
     {
