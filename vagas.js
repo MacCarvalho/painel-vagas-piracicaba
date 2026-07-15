@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "15/07/2026 às 13:49",
-  "total_jobs": 55,
+  "last_updated": "15/07/2026 às 19:16",
+  "total_jobs": 61,
   "jobs": [
     {
       "id": 1,
@@ -64,6 +64,26 @@ const VAGAS_DATA = {
     },
     {
       "id": 7,
+      "title": "Ajudante de obras",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Alfabetizado",
+      "salary": "R$ 2.302,75",
+      "description": "Irá auxiliar na execução de serviços de conservação e manutenção de rodovias, apoiando as equipes em atividades de roçada, tapa-buraco, limpeza da faixa de domínio, drenagem, sinalização de obras, carga e descarga de materiais, organização do canteiro e demais serviços operacionais, sempre seguindo as orientações da liderança e as normas de segurança. As atividades são compatíveis com os serviços rotineiros de conservação rodoviária.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 8,
+      "title": "Ajudante de Restaurante",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.334,86",
+      "description": "Horário de trabalho de seg a dom e feriados das 15h00 as 23h20 - escala 6x1. Realizar preparo dos alimentos como arroz, feijão, massas, saladas, molhos, etc; Seguindo o receituário padrão. Realiza também a montagem de pratos, armazenamento correto dos produtos, pesagens dos alimentos, limpeza e organização do local de trabalho.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 9,
       "title": "Ajudante Geral",
       "deadline": "30/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -73,7 +93,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Almoxarife",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -83,7 +103,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 9,
+      "id": 11,
       "title": "Assistente administrativo",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -93,7 +113,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 10,
+      "id": 12,
+      "title": "Assistente administrativo",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.500,00",
+      "description": "Diferencial estar cursando ensino superior. Ter disponibilidade p/ viagens; experiência em rotinas administrativas, conhecimento em Pacote Office, controlar planilhas; registros fotográficos, organização, capacidade de trabalhar em equipes, disponibilidade para atuar em obras e realizar deslocamentos. Prestar suporte administrativo ao contrato de conservação de rodovias, arquivar, organizar, elaborar planilhas, controlar medições, equipamentos, equipes registros fotográficos, emitir relatórios.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 13,
       "title": "Atendente de Loja",
       "deadline": "14/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -103,7 +133,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 11,
+      "id": 14,
       "title": "Atendente de Loja",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -113,7 +143,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 12,
+      "id": 15,
       "title": "Auxiliar de Açougue",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -123,7 +153,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 13,
+      "id": 16,
       "title": "Auxiliar de Limpeza",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -133,7 +163,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e região."
     },
     {
-      "id": 14,
+      "id": 17,
       "title": "Auxiliar de limpeza",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -143,7 +173,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 15,
+      "id": 18,
       "title": "Auxiliar de limpeza",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -153,7 +183,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 16,
+      "id": 19,
       "title": "Auxiliar de Manutenção",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -163,7 +193,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 17,
+      "id": 20,
       "title": "Auxiliar de Mecânico (trabalho em altura)",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -173,7 +203,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras, Charqueada e Iracemápolis."
     },
     {
-      "id": 18,
+      "id": 21,
       "title": "Auxiliar de Peixaria",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -183,7 +213,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 19,
+      "id": 22,
       "title": "Auxiliar de Qualidade",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -193,7 +223,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, Saltinho, Rio das Pedras"
     },
     {
-      "id": 20,
+      "id": 23,
       "title": "Auxiliar de Serviços Gerais",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -203,7 +233,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 21,
+      "id": 24,
       "title": "Bombeiro Civil",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -213,7 +243,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio Das Pedras, Santa Bárbara D'oeste, Iracemápolis e Charqueada."
     },
     {
-      "id": 22,
+      "id": 25,
       "title": "Caldeireiro",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -223,7 +253,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 23,
+      "id": 26,
+      "title": "Carpinteiro de obras (Vaga Temporária 180 dias)",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.730,00",
+      "description": "Ter conhecimento em armação e formas; leitura e interpretação de projetos estruturais; processos de Obra Civil e noções de segurança do trabalho. Irá executar serviços de carpintaria em obras civis, incluindo corte, montagem, ajuste e desmontagem de formas de madeira para estruturas de concreto, entre outras atividades.",
+      "location_restriction": "Piracicaba, Saltinho, Rio Claro, Limeira, Americana"
+    },
+    {
+      "id": 27,
       "title": "Chefe de serviço de limpeza",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -233,7 +273,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 24,
+      "id": 28,
       "title": "Coordenador de Obras",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -243,17 +283,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 25,
-      "title": "Eletricista",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Técnico Completo (Apresentar o histórico escolar ao CAT)",
-      "salary": "R$ 3.500,00",
-      "description": "Local de Trabalho: Centro. Ter curso Técnico completo em Elétrica. Instalar, inspecionar e realizar manutenções preventivas e corretivas em sistemas elétricos de alta complexidade. Ele atua na montagem de painéis, no acionamento de motores e na automação de máquinas no chão de fábrica, etc.",
-      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
-    },
-    {
-      "id": 26,
+      "id": 29,
       "title": "Eletricista",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -263,7 +293,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 27,
+      "id": 30,
+      "title": "Eletricista",
+      "deadline": "30/07/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Técnico Completo (Apresentar o histórico escolar ao CAT)",
+      "salary": "R$ 3.500,00",
+      "description": "Local de Trabalho: Centro. Ter curso Técnico completo em Elétrica. Instalar, inspecionar e realizar manutenções preventivas e corretivas em sistemas elétricos de alta complexidade. Ele atua na montagem de painéis, no acionamento de motores e na automação de máquinas no chão de fábrica, etc.",
+      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
+    },
+    {
+      "id": 31,
       "title": "Eletricista de instalações industriais",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -273,7 +313,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 28,
+      "id": 32,
       "title": "Encanador industrial",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -283,17 +323,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 29,
-      "title": "Encarregado de Obras",
-      "deadline": "24/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Alfabetizado",
-      "salary": "R$ 6.106,80",
-      "description": "Local de trabalho: Vila Independência. Ter disponibilidade de viagem para região de Piracicaba. Ter experiência com acabamentos finais de obras civis (pintura, revestimento, etc). Irá liderar equipes de trabalhadores da construção civil em canteiro de obras; Libera atividades a serem executadas e acompanha os serviços em execução conforme parâmetros de qualidade; Interpreta projetos de arquitetura ou projetos pertinentes as atividades de construção civil; Zela pelos recursos e materiais da empresa.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 30,
+      "id": 33,
       "title": "Estagiário em Contabilidade",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -303,7 +333,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 31,
+      "id": 34,
       "title": "Jardineiro",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -313,7 +343,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 32,
+      "id": 35,
+      "title": "Líder de Logística (vaga temporária)",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Superior Cursando (Apresentar a declaração de escolaridade ao CAT)",
+      "salary": "R$ 5.500,00",
+      "description": "Local de Trabalho: Bairro Conceição. Vaga temporária (180 dias). Estar cursando superior na área da Logística. Turnos disponíveis: T1 (05h25 - 15h13/ter a sab); T2 (13h55 - 23h30/seg-sex) e T3 ( 21h30 - 06h25/seg a sex). Ter experiência com rotinas operacionais e liderança de equipes de grande porte, vivência em gestão de processos por indicadores, conhecimento no pacote Office e disponibilidade de horário (conforme necessidade). Responsável por liderar e distribuir tarefas na operação logística, acompanhando todo o fluxo; entre outras.",
+      "location_restriction": "Piracicaba e região"
+    },
+    {
+      "id": 36,
       "title": "Lubrificador industrial",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -323,7 +363,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 33,
+      "id": 37,
       "title": "Manipulador de Alimentos",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -333,7 +373,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 34,
+      "id": 38,
       "title": "Mecânico de Diesel",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -343,7 +383,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 35,
+      "id": 39,
       "title": "Mecânico de Manutenção",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -353,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 36,
+      "id": 40,
       "title": "Mecânico de manutenção de máquinas industriais",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -363,7 +403,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 37,
+      "id": 41,
       "title": "Motorista de Caminhão",
       "deadline": "20/07/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -373,7 +413,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Rio das Pedras"
     },
     {
-      "id": 38,
+      "id": 42,
       "title": "Motorista entregador",
       "deadline": "24/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -383,7 +423,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 39,
+      "id": 43,
       "title": "Motorista Munck",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -393,7 +433,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 40,
+      "id": 44,
       "title": "Oficial de Manutenção Predial",
       "deadline": "29/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -403,7 +443,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 41,
+      "id": 45,
       "title": "Operador de loja",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -413,7 +453,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 42,
+      "id": 46,
       "title": "Operador de Padaria Sênior",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -423,7 +463,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 43,
+      "id": 47,
       "title": "Pedreiro",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -433,7 +473,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 44,
+      "id": 48,
+      "title": "Pedreiro (vaga temporária 180 dias)",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.730,00",
+      "description": "Ter experiência em obras industriais. Vivência em atividades de fundação, estruturas e concretagem. Atuar em canteiros com alto padrão de segurança. Ter experiência com execução baseada em projetos, alvenaria (blocos), alinhamento, nível, prumo, construção de bases, fundações simples, estruturas civis, lastro de concreto, contra piso, concretagem (lançamento, adensamento e cura); montagem, desmontagem de formas simples.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 49,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -443,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Rio das Pedras"
     },
     {
-      "id": 45,
+      "id": 50,
       "title": "Pintor Industrial",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -453,7 +503,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 46,
+      "id": 51,
       "title": "Repositor B",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -463,7 +513,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 47,
+      "id": 52,
       "title": "Revisador",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -473,7 +523,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 48,
+      "id": 53,
       "title": "Soldador",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -483,7 +533,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 49,
+      "id": 54,
+      "title": "Subgerente de Loja",
+      "deadline": "30/07/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Médio Completo (Apresentar o histórico escolar ao CAT)",
+      "salary": "R$ 4.900,00",
+      "description": "Local de trabalho: Areião. Horário de trabalho das 15h00 as 23h20. Ter experiência como gerente em restaurantes e gestão de equipes. Gerir os funcionários e construir a escala de trabalho semanal; Efetuar o recebimento das mercadorias (Checar as datas de vencimento, conferir peso,etc); Participar dos processos, realizando entrevistas, desligamentos e exames demissionais; Fiscalizar o uso correto dos EPIS; Checar o preenchimento de todas as planilhas da loja, evitar desperdícios; Entre outras.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 55,
       "title": "Técnico em Eletrônica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -493,7 +553,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 50,
+      "id": 56,
       "title": "Técnico em manutenção de máquinas",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -503,7 +563,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 51,
+      "id": 57,
       "title": "Técnico em Mecânica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -513,7 +573,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 52,
+      "id": 58,
       "title": "Técnico em Mecatrônica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -523,7 +583,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 53,
+      "id": 59,
       "title": "Torneiro Mecânico",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -533,7 +593,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 54,
+      "id": 60,
       "title": "Vendedor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -543,7 +603,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 55,
+      "id": 61,
       "title": "Vendedor externo PAP",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
