@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "15/07/2026 às 19:16",
-  "total_jobs": 61,
+  "last_updated": "16/07/2026 às 02:48",
+  "total_jobs": 62,
   "jobs": [
     {
       "id": 1,
@@ -454,6 +454,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 46,
+      "title": "Operador de máquinas de construção civil e mineração",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 4.310,00",
+      "description": "Ter CNH D; curso de Operador de Máquinas Pesadas. Irá operar máquinas e equipamentos utilizados na conservação e manutenção de rodovias, tais como: RETROESCAVADEIRA, PÁ CARREGADEIRA, ESCAVADEIRA HIDRÁULICA, MOTONIVELADORA, ROLO COMPACTADOR, MINICARREGADEIRA e outros equipamentos compatíveis com a função. Irá executar serviços de terraplanagem, limpeza e desobstrução de drenagem, conformação de taludes, movimentação de materiais, apoio à recuperação do pavimento e demais atividades operacionais.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 47,
       "title": "Operador de Padaria Sênior",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -463,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "Pedreiro",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -473,7 +483,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Pedreiro (vaga temporária 180 dias)",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -483,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -493,7 +503,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Rio das Pedras"
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "Pintor Industrial",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -503,7 +513,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "Repositor B",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -513,7 +523,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 52,
+      "id": 53,
       "title": "Revisador",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -523,7 +533,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 53,
+      "id": 54,
       "title": "Soldador",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -533,7 +543,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 54,
+      "id": 55,
       "title": "Subgerente de Loja",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -543,7 +553,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 55,
+      "id": 56,
       "title": "Técnico em Eletrônica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -553,7 +563,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 56,
+      "id": 57,
       "title": "Técnico em manutenção de máquinas",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -563,7 +573,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 57,
+      "id": 58,
       "title": "Técnico em Mecânica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -573,7 +583,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 58,
+      "id": 59,
       "title": "Técnico em Mecatrônica",
       "deadline": "17/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -583,7 +593,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 59,
+      "id": 60,
       "title": "Torneiro Mecânico",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -593,7 +603,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 60,
+      "id": 61,
       "title": "Vendedor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -603,7 +613,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 61,
+      "id": 62,
       "title": "Vendedor externo PAP",
       "deadline": "17/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
