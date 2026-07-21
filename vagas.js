@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "21/07/2026 às 13:58",
-  "total_jobs": 44,
+  "last_updated": "21/07/2026 às 19:27",
+  "total_jobs": 43,
   "jobs": [
     {
       "id": 1,
@@ -284,6 +284,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 29,
+      "title": "Motorista entregador",
+      "deadline": "31/07/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.165,00",
+      "description": "Ter CNH A/B (dentro da validade) e disponibilidade para viagens para Piracicaba, Rio Claro, Limeira, Santa Bárbara, Campinas e Região. irá realizar entrega de mercadorias com veículos da empresa (moto e carro).",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 30,
       "title": "Motorista Munck",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -291,16 +301,6 @@ const VAGAS_DATA = {
       "salary": "R$ 3.046,31",
       "description": "Local de Trabalho: Região Metropolitana. Ter CNH D, disponibilidade de viagem para todo Brasil e veículo próprio para se deslocar até o local de trabalho. Fará locomoção dos veículos munck da empresa até os clientes ou fornecedores; içamento de cargas nas dependências da empresa, clientes ou fornecedores; carregamento de materiais nas dependências da empresa, clientes e fornecedores;  coordenar a equipe que esteja auxiliando na retirada de materiais, preenchimento de checklist de manutenção; entre outras.",
       "location_restriction": "Piracicaba e região"
-    },
-    {
-      "id": 30,
-      "title": "Oficial de Manutenção Predial",
-      "deadline": "29/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.801,98",
-      "description": "Local de trabalho: Areiao. Ter curso de NR-10 e qualquer outro na área de elétrica. Será um diferencial se tiver experiência em manutenção elétrica predial, conhecimento em manutenção preventiva e corretiva de instalações elétricas, NR-35 e NR-18 ou interpretação de diagramas elétricos. Realizar manutenção preventiva e corretiva em instalações elétricas prediais, instalação e substituição de componentes elétricos, passagem de cabos, montagem de infraestrutura elétrica, entre outras.",
-      "location_restriction": "Piracicaba"
     },
     {
       "id": 31,
@@ -384,16 +384,6 @@ const VAGAS_DATA = {
     },
     {
       "id": 39,
-      "title": "Revisador",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.051,55",
-      "description": "Para trabalhar na região metropolitana de Piracicaba. Horário de trabalho: de seg a sex das 05h00 às 13h36 e sáb das 05h00 às 11h15. Preparar máquinas de costura; revisar os big bags; analisar a qualidade e a existência de resíduos; efetuar a operação de liner; efetuar a limpeza e a lubrificação da máquina de costura, utilizando álcool e tecido para higienização;organizar as gavetas das mesas com remendos, fitilhos e porta etiquetas; entre outras atividades inerentes ao cargo",
-      "location_restriction": "Piracicaba e região"
-    },
-    {
-      "id": 40,
       "title": "Soldador",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -403,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 41,
+      "id": 40,
       "title": "Subgerente de Loja",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -413,7 +403,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 42,
+      "id": 41,
       "title": "Técnico em manutenção de máquinas",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -423,7 +413,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 43,
+      "id": 42,
       "title": "Torneiro Mecânico",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -433,7 +423,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 44,
+      "id": 43,
       "title": "Vendedor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
