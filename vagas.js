@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "23/07/2026 às 14:07",
-  "total_jobs": 51,
+  "last_updated": "23/07/2026 às 19:22",
+  "total_jobs": 50,
   "jobs": [
     {
       "id": 1,
@@ -34,16 +34,6 @@ const VAGAS_DATA = {
     },
     {
       "id": 4,
-      "title": "Ajudante de motorista",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.005,00",
-      "description": "Irá realizar carregamento e descarga dos produtos nos clientes. Apoiar os motoristas nas atividades operacionais. Conferir mercadorias, quantidades e condições dos materiais antes da expedição. Realizar amarração, proteção e acondicionamento adequado das cargas. Auxiliar na limpeza, conservação e organização do pátio, veículos e área operacional. Separar, identificar e armazenar produtos. Apoiar no controle de entrada e saída de materiais. Dar suporte às demandas operacionais.",
-      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
-    },
-    {
-      "id": 5,
       "title": "Ajudante de Obras",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -53,7 +43,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Ajudante de obras",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -63,7 +53,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Ajudante de obras",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -73,7 +63,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Ajudante de Pátio de Sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -83,7 +73,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Ajudante de pátio de sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -93,7 +83,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 10,
+      "id": 9,
       "title": "Ajudante de Restaurante",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -103,7 +93,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 11,
+      "id": 10,
       "title": "Atendente de Loja",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -113,7 +103,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 12,
+      "id": 11,
       "title": "Atendente de Loja",
       "deadline": "14/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -123,7 +113,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 13,
+      "id": 12,
       "title": "Auxiliar de Açougue",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -133,13 +123,23 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 14,
+      "id": 13,
       "title": "Auxiliar de escritório",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.000,00",
       "description": "Ter disponibilidade para viagem. Irá realizar lançamentos de NF, pagamentos, atendimentos e compras de insumos. Ser proativo, organizado e comunicativo.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 14,
+      "title": "Auxiliar de Limpeza",
+      "deadline": "10/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Alfabetizado",
+      "salary": "Salário não informado",
+      "description": "Local de trabalho: Parque Taquaral. Irá realizar limpeza diária de banheiros, salas administrativas, refeitórios, entre outros.",
       "location_restriction": "Piracicaba"
     },
     {
@@ -456,7 +456,7 @@ const VAGAS_DATA = {
       "id": 46,
       "title": "Rasteleiro/Operador de pavimentadora (asfalto, concreto e materiais similares)",
       "deadline": "31/07/26 às 15:00",
-      "experience": "Sem exigência de experiência",
+      "experience": "Experiência de 6 meses",
       "education": "Alfabetizado",
       "salary": "R$ 2.302,75",
       "description": "Local de Trabalho: ROD SP/304. Irá executar serviços de apoio em obras e conservação, realizando espalhamento, nivelamento e acabamento de materiais com rastelo, limpeza da frente de trabalho e auxílio às equipes operacionais.",
@@ -464,16 +464,6 @@ const VAGAS_DATA = {
     },
     {
       "id": 47,
-      "title": "Soldador",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 3.000,00",
-      "description": "Local de Trabalho: Centro. Ter curso de Soldador e Leitura e Interpretação de Desenhos. Preparar superfícies e equipamentos, ler projetos técnicos e realizar soldagens em processos como TIG, MIG/MAG e eletrodo revestido.",
-      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
-    },
-    {
-      "id": 48,
       "title": "Subgerente de Loja",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -483,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 49,
+      "id": 48,
       "title": "Técnico em manutenção de máquinas",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -493,7 +483,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 50,
+      "id": 49,
       "title": "Torneiro Mecânico",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -503,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 51,
+      "id": 50,
       "title": "Vendedor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
