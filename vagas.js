@@ -1,5 +1,5 @@
 const VAGAS_DATA = {
-  "last_updated": "28/07/2026 às 08:38",
+  "last_updated": "28/07/2026 às 14:13",
   "total_jobs": 52,
   "jobs": [
     {
@@ -324,16 +324,6 @@ const VAGAS_DATA = {
     },
     {
       "id": 33,
-      "title": "Motorista de Caminhão (Coletor Óleo)",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 3.102,18",
-      "description": "Escala 6x1.  Ter CNH D, curso MOPP (Caso não tenha, ter disponibilidade para fazer), irá realizar viagens para São Paulo. Atuar com a coleta de óleo lubrificante usado e contaminado (OLUC). Será responsável por realizar visitas a clientes, negociar a compra do OLUC e garantir a coleta segura e dentro das normas, dirigindo veículos de pequeno e médio porte.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 34,
       "title": "Motorista Munck",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -343,7 +333,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 35,
+      "id": 34,
       "title": "Operador de escavadeira",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -353,7 +343,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 36,
+      "id": 35,
       "title": "Operador de máquinas de construção civil e mineração",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -363,7 +353,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 37,
+      "id": 36,
       "title": "Operador de Padaria Sênior",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -373,7 +363,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 38,
+      "id": 37,
       "title": "Operador de Produção Rural",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -383,7 +373,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 39,
+      "id": 38,
       "title": "Pedreiro",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -393,7 +383,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Santa Bárbara D'Oeste"
     },
     {
-      "id": 40,
+      "id": 39,
       "title": "Pedreiro",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -403,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Rio Claro, Santa Barbara d'oeste, Limeira e Região."
     },
     {
-      "id": 41,
+      "id": 40,
       "title": "Pedreiro",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -413,7 +403,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 42,
+      "id": 41,
       "title": "Pedreiro (Vaga Temporária 180 Dias)",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -423,7 +413,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 43,
+      "id": 42,
       "title": "Pedreiro (vaga temporária 180 dias)",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -433,7 +423,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 44,
+      "id": 43,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -443,7 +433,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 45,
+      "id": 44,
       "title": "Pintor de obras",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -453,7 +443,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 46,
+      "id": 45,
       "title": "Pintor Industrial",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -463,7 +453,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 47,
+      "id": 46,
       "title": "Rasteleiro/Operador de pavimentadora (asfalto, concreto e materiais similares)",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -473,7 +463,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
     },
     {
-      "id": 48,
+      "id": 47,
       "title": "Repositor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -483,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 49,
+      "id": 48,
       "title": "Subgerente de Loja",
       "deadline": "30/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -493,7 +483,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 50,
+      "id": 49,
       "title": "Técnico em manutenção de máquinas",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -503,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 51,
+      "id": 50,
       "title": "Torneiro Mecânico",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -513,13 +503,23 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 52,
+      "id": 51,
       "title": "Vendedor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.200,00",
       "description": "Local de Trabalho: Algodoal. Ter CNH B. Fará visita a clientes, abertura de novos clientes, atendimento presencial e telefônico, identificação de oportunidades em segmentos como indústrias, condomínios, hotéis, restaurantes e hospitais. Elaboração de propostas e relatórios.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 52,
+      "title": "Vendedor B2B",
+      "deadline": "07/08/26 às 15:00",
+      "experience": "Experiência de 1 a 3 meses",
+      "education": "Ensino Médio Completo",
+      "salary": "Salário não informado (fixo + comissão)",
+      "description": "Local de Trabalho: Paulicéia. Ter experiência em vendas B2B, CNH B, disponibilidade de viagens para região de Piracicaba, facilidade para prospecção de novos clientes e desenvolvimento de carteira comercial. Salário fixo + comissão.",
       "location_restriction": "Piracicaba"
     }
   ]
