@@ -1,5 +1,5 @@
 const VAGAS_DATA = {
-  "last_updated": "30/07/2026 às 08:31",
+  "last_updated": "30/07/2026 às 14:08",
   "total_jobs": 54,
   "jobs": [
     {
@@ -464,6 +464,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 47,
+      "title": "Porteiro",
+      "deadline": "07/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.112,81",
+      "description": "Local de Trabalho: Parque Orlanda. Ter curso de Informática Básica. Roda turno  escala 12x36. Controlar o acesso, zelar pela segurança preventiva do patrimônio. Receber e organizar correspondências e encomendas. Monitorar sistemas de câmeras (CFTV) básicos.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 48,
       "title": "Rasteleiro/Operador de pavimentadora (asfalto, concreto e materiais similares)",
       "deadline": "31/07/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -473,7 +483,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Repositor",
       "deadline": "31/07/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -481,16 +491,6 @@ const VAGAS_DATA = {
       "salary": "R$ 2.112,00",
       "description": "Horário de trabalho: das 13h40 as 22h00 - escala 6x1. Recebimento de mercadorias; organização do estoque do setor em câmara fria; manipulação de alimentos; produção de temperados e bandejas de auto serviço; reposição de mercadorias na prateleira; controle de validade dos produtos; verificar precificação, limpeza e organização do setor; montar os balcões e ilhas de congelados com diversas peças de carne, para viabilizar a comercialização; entre outras.",
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
-    },
-    {
-      "id": 49,
-      "title": "Subgerente de Loja",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Experiência de 6 meses",
-      "education": "Ensino Médio Completo (Apresentar o histórico escolar ao CAT)",
-      "salary": "R$ 4.900,00",
-      "description": "Local de trabalho: Areião. Horário de trabalho das 15h00 as 23h20. Ter experiência como gerente em restaurantes e gestão de equipes. Gerir os funcionários e construir a escala de trabalho semanal; Efetuar o recebimento das mercadorias (Checar as datas de vencimento, conferir peso,etc); Participar dos processos, realizando entrevistas, desligamentos e exames demissionais; Fiscalizar o uso correto dos EPIS; Checar o preenchimento de todas as planilhas da loja, evitar desperdícios; Entre outras.",
-      "location_restriction": "Piracicaba"
     },
     {
       "id": 50,
