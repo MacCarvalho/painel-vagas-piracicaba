@@ -1,6 +1,6 @@
 {
-  "last_updated": "31/07/2026 às 14:13",
-  "total_jobs": 50,
+  "last_updated": "31/07/2026 às 19:37",
+  "total_jobs": 38,
   "jobs": [
     {
       "id": 1,
@@ -14,16 +14,6 @@
     },
     {
       "id": 2,
-      "title": "Ajudante de Obras",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.477,90",
-      "description": "Ter disponibilidade para viagem e pernoite Irá realizar serviços em construção e demolição de obras residenciais, comerciais e industriais. Irá auxiliar pedreiros no manuseio de blocos, tábuas e ferramentas; preparo de materiais: mistura massas, cimento, concreto e argamassas. Receber, descarregar e transportar materiais pesados. Organizar e empilhar insumos. Remover entulhos. Limpar e organizar ferramentas. Abrir valas, fossas ou buracos e auxiliar na demolição.",
-      "location_restriction": "Piracicaba e Região"
-    },
-    {
-      "id": 3,
       "title": "Ajudante de obras",
       "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -33,7 +23,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Ajudante de obras",
       "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -43,7 +33,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Ajudante de Pátio de Sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -53,7 +43,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Ajudante de pátio de sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -63,7 +53,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Ajudante de pintor",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -73,7 +63,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Ajudante Geral",
       "deadline": "14/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -81,6 +71,16 @@
       "salary": "R$ 10,00 por hora",
       "description": "Local de Trabalho: Jardim Algodoal. Fará limpeza e organização em todos os setores da empresa.",
       "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 8,
+      "title": "Assistente de vendas",
+      "deadline": "12/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 3.045,00",
+      "description": "Vaga para assistente de vendas. Ter conhecimento nas rotinas administrativas comerciais, Word e Excel; Experiência com prospecção de clientes ativos/inativos e atendimento a clientes; Conhecimento em sistema integrado será um diferencial. Ira realizar atividades administrativas, atendimento a clientes, controlando os faturamentos e pedidos, elaborando relatórios gerenciais e prestando suporte a área comercial.",
+      "location_restriction": "Piracicaba e Rio das Pedras."
     },
     {
       "id": 9,
@@ -205,7 +205,7 @@
     {
       "id": 21,
       "title": "Eletricista de instalações",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.801,98",
@@ -214,18 +214,8 @@
     },
     {
       "id": 22,
-      "title": "Encanador industrial",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Alfabetizado",
-      "salary": "R$ 3.137,11",
-      "description": "Local de Trabalho: Vila Industrial. Desejável conhecimento em sistemas de combate a incêndio. Conhecer tubulação em área industrial; interpretar desenhos, esquemas, especificações; abrir sulcos no solo, furos e rasgos em muros e paredes, utilizar equipamentos manuais e mecânicos, tarraxas, bancadas de curvar tubos; ligar tubulação, registros, bombas, sistema de água e esgoto; localizar; reparar vazamentos; bloquear linhas de vapor, água, ar comprimido, óleo cru, colocar raquetes ou flanges cegos; limpar filtros nos locais.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 23,
       "title": "Executivo comercial",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.500,00",
@@ -233,9 +223,9 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 24,
+      "id": 23,
       "title": "Manipulador de Alimentos",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.112,00",
@@ -243,9 +233,9 @@
       "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
     },
     {
-      "id": 25,
+      "id": 24,
       "title": "Mecânico de Diesel",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Alfabetizado",
       "salary": "R$ 5.000,00",
@@ -253,7 +243,7 @@
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 26,
+      "id": 25,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -263,9 +253,9 @@
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 27,
+      "id": 26,
       "title": "Mecânico Diesel",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Fundamental Incompleto (Apresentar o histórico escolar ao CAT)",
       "salary": "Salário não informado",
@@ -273,9 +263,9 @@
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras e Região"
     },
     {
-      "id": 28,
+      "id": 27,
       "title": "Motorista Munck",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Alfabetizado",
       "salary": "R$ 3.046,31",
@@ -283,7 +273,7 @@
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 29,
+      "id": 28,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -293,7 +283,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 30,
+      "id": 29,
       "title": "Operador de escavadeira",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -303,27 +293,7 @@
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 31,
-      "title": "Operador de máquinas de construção civil e mineração",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 4.310,00",
-      "description": "Ter CNH D; curso de Operador de Máquinas Pesadas. Irá operar máquinas e equipamentos utilizados na conservação e manutenção de rodovias, tais como: RETROESCAVADEIRA, PÁ CARREGADEIRA, ESCAVADEIRA HIDRÁULICA, MOTONIVELADORA, ROLO COMPACTADOR, MINICARREGADEIRA e outros equipamentos compatíveis com a função. Irá executar serviços de terraplanagem, limpeza e desobstrução de drenagem, conformação de taludes, movimentação de materiais, apoio à recuperação do pavimento e demais atividades operacionais.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 32,
-      "title": "Operador de Padaria Sênior",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2.660,30",
-      "description": "Horário de trabalho: das 13h40 as 22h00 - escala 6x1. Gestão de equipe: treinar, orientar e escalar padeiros, confeiteiros e atendentes. Produção e qualidade: supervisionar a confecção de pães e salgados. Controle de estoque e compras: monitorar o nível de ingredientes, validade dos produtos e realizar pedidos de insumos. Higiene e segurança:garantir que o ambiente, utensílios e equipamentos sigam rigorosamente as normas de vigilância sanitária; entre outras",
-      "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
-    },
-    {
-      "id": 33,
+      "id": 30,
       "title": "Operador de Produção Rural",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -333,9 +303,9 @@
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 34,
+      "id": 31,
       "title": "Pedreiro",
-      "deadline": "31/07/26 às 15:00",
+      "deadline": "03/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Sem exigência de escolaridade",
       "salary": "R$ 2.801,98",
@@ -343,17 +313,7 @@
       "location_restriction": "Piracicaba e Santa Bárbara D'Oeste"
     },
     {
-      "id": 35,
-      "title": "Pedreiro",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.802,00",
-      "description": "Irá preparar canteiros de obras para manutenção das rodovias da região de Piracicaba",
-      "location_restriction": "Piracicaba, Saltinho, Americana, Rio Claro, Santa Barbara d'oeste, Limeira e Região."
-    },
-    {
-      "id": 36,
+      "id": 32,
       "title": "Pedreiro",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -363,37 +323,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 37,
-      "title": "Pedreiro",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Experiência de 6 meses",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 3.000,00",
-      "description": "Local de Trabalho: Centro. Será responsável por executar, reparar e reformar obras na construção civil. Suas funções abrangem desde a leitura de projetos e preparo do terreno até o acabamento final, envolvendo alvenaria, fundações, estruturas e revestimentos.",
-      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
-    },
-    {
-      "id": 38,
-      "title": "Pedreiro (Vaga Temporária 180 Dias)",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 1 a 3 meses",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 11,65 por hora",
-      "description": "Local de Trabalho: Vila Industrial. Desejável: Ter alguma experiência com manutenção civil e industrial. Irá executar serviços de manutenção nas áreas de civil, hidráulica e pintura em todas as dependências da Unidade como: estruturas de alvenaria, madeira, arame e telhados metálicos; reparos em tubulações de água potável, industrial, calhas pluviais, vedação em telhados metálicos e em alvenaria; retoques em pinturas prediais; reparos em dispositivos sanitários.",
-      "location_restriction": "Piracicaba e Região"
-    },
-    {
-      "id": 39,
-      "title": "Pedreiro (vaga temporária 180 dias)",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2.730,00",
-      "description": "Ter experiência em obras industriais. Vivência em atividades de fundação, estruturas e concretagem. Atuar em canteiros com alto padrão de segurança. Ter experiência com execução baseada em projetos, alvenaria (blocos), alinhamento, nível, prumo, construção de bases, fundações simples, estruturas civis, lastro de concreto, contra piso, concretagem (lançamento, adensamento e cura); montagem, desmontagem de formas simples.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 40,
+      "id": 33,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -403,7 +333,7 @@
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 41,
+      "id": 34,
       "title": "Pintor de obras",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -413,17 +343,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 42,
-      "title": "Pintor Industrial",
-      "deadline": "30/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 3.000,00",
-      "description": "Local de Trabalho: Centro.  Prepara e aplica revestimentos em superfícies metálicas e equipamentos. O objetivo principal é garantir a proteção anticorrosiva e a durabilidade de estruturas, atuando na preparação da superfície (limpeza e jateamento) e na pintura por meio de pistolas ou rolos.",
-      "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
-    },
-    {
-      "id": 43,
+      "id": 35,
       "title": "Porteiro",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -433,47 +353,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 44,
-      "title": "Rasteleiro/Operador de pavimentadora (asfalto, concreto e materiais similares)",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.302,75",
-      "description": "Local de Trabalho: ROD SP/304. Irá executar serviços de apoio em obras e conservação, realizando espalhamento, nivelamento e acabamento de materiais com rastelo, limpeza da frente de trabalho e auxílio às equipes operacionais.",
-      "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
-    },
-    {
-      "id": 45,
-      "title": "Repositor",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2.112,00",
-      "description": "Horário de trabalho: das 13h40 as 22h00 - escala 6x1. Recebimento de mercadorias; organização do estoque do setor em câmara fria; manipulação de alimentos; produção de temperados e bandejas de auto serviço; reposição de mercadorias na prateleira; controle de validade dos produtos; verificar precificação, limpeza e organização do setor; montar os balcões e ilhas de congelados com diversas peças de carne, para viabilizar a comercialização; entre outras.",
-      "location_restriction": "Piracicaba, Rio das Pedras, Saltinho e Rio Claro"
-    },
-    {
-      "id": 46,
-      "title": "Técnico em manutenção de máquinas",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 2.636,56",
-      "description": "Local de Trabalho Uninorte. Ter CNH B, Curso Técnico em mecânica, manutenção, elétrica, hidráulica, instrumentação, automação, disponibilidade de viagens pelo Brasil. Irá realizar manutenções em trocadores de calor a placas, (remoção de gaxetas, limpeza química, limpeza por hidrojato, inspeção por líquido penetrante, gabaritagem, colagem, lixamento de gaxetas e teste hidrostático); elaborar relatórios técnicos; realizar recebimento, inspeção, check in de placas e trocadores; interpretar arranjo de placas e desenhos;",
-      "location_restriction": "Piracicaba e Região"
-    },
-    {
-      "id": 47,
-      "title": "Torneiro Mecânico",
-      "deadline": "31/07/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 30,00 por hora",
-      "description": "Local de Trabalho: Jardim Algodoal. Ter curso SENAI ou similar na área. Ter conhecimento no setor de manutenção e ferramentaria. Trabalhará com usinagem de peças para o setor de manutenção e ferramentaria",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 48,
+      "id": 36,
       "title": "Vendedor (a) B2B",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -483,7 +363,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 49,
+      "id": 37,
       "title": "Vendedor B2B",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -493,7 +373,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 50,
+      "id": 38,
       "title": "Vendedor de comércio varejista",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
