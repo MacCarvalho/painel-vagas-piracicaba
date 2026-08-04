@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "04/08/2026 às 14:21",
-  "total_jobs": 21,
+  "last_updated": "04/08/2026 às 19:40",
+  "total_jobs": 18,
   "jobs": [
     {
       "id": 1,
@@ -44,16 +44,6 @@ const VAGAS_DATA = {
     },
     {
       "id": 5,
-      "title": "Atendente de Loja",
-      "deadline": "14/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2.114,00",
-      "description": "Local de trabalho: Centro. Ter disponibilidade de horário e para trabalhar em escala 6x1. Atendimento ao cliente, caixa, reposição, organização de estoque, limpeza e padaria.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 6,
       "title": "Auxiliar de cozinha",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -63,7 +53,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Auxiliar de limpeza",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -73,7 +63,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Auxiliar de manutenção predial",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -83,17 +73,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 9,
-      "title": "Auxiliar de Retífica/ Brunimento",
-      "deadline": "14/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 11,37 por hora",
-      "description": "Irá atuar no suporte direto ao operador principal, na montagem, regulagem de pressão e ajuste do aperto do cabeçote brunido para garantir a remoção exata do material e o acabamento superficial desejado. O serviço será ensinado ao candidato.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 10,
+      "id": 8,
       "title": "Eletricista Automotivo",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -103,7 +83,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e  Rio das Pedras"
     },
     {
-      "id": 11,
+      "id": 9,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -113,7 +93,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 12,
+      "id": 10,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -123,7 +103,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 13,
+      "id": 11,
       "title": "Operador de escavadeira",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -133,7 +113,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 14,
+      "id": 12,
       "title": "Operador de Produção Rural",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -143,17 +123,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 15,
-      "title": "Operador especializado",
-      "deadline": "14/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 4.095,00",
-      "description": "Local de Trabalho. Jardim Primavera. Irá atuar na operação de equipamentos tecnológicos, realizando o monitoramento dos processos operacionais, realizar a inicialização e verificação das condições de funcionamento dos equipamentos; monitorar processos operacionais e analisar informações para identificação de desvios; utilizar corretamente os equipamentos de proteção e recursos disponibilizados para a atividade; comunicar ocorrências e contribuir com ações de melhoria contínua.",
-      "location_restriction": "Piracicaba e Região"
-    },
-    {
-      "id": 16,
+      "id": 13,
       "title": "Pedreiro",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -163,7 +133,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 17,
+      "id": 14,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -173,7 +143,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 18,
+      "id": 15,
       "title": "Pintor de obras",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -183,7 +153,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 19,
+      "id": 16,
       "title": "Vendedor (a) B2B",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -193,7 +163,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 20,
+      "id": 17,
       "title": "Vendedor B2B",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -203,7 +173,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 21,
+      "id": 18,
       "title": "Vendedor de comércio varejista",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
