@@ -1,9 +1,19 @@
 const VAGAS_DATA = {
-  "last_updated": "05/08/2026 às 08:40",
-  "total_jobs": 18,
+  "last_updated": "05/08/2026 às 14:14",
+  "total_jobs": 23,
   "jobs": [
     {
       "id": 1,
+      "title": "Açougueiro",
+      "deadline": "18/08/26 às 11:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.640,00",
+      "description": "Local de Trabalho: Santa Terezinha. Horário de trabalho: de segunda a domingo - escala 6x1. Preparar produtos para comercialização de acordo com o sortimento; manipulação de equipamentos e corte de carnes; atendimento ao cliente; manter o setor higienizado de acordo com as regulamentações aplicáveis; controlar taras das balanças e datas de validade.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 2,
       "title": "Ajudante de Pátio de Sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -13,7 +23,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ajudante de pátio de sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -23,7 +33,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Ajudante de pintor",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -33,7 +43,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Ajudante Geral",
       "deadline": "14/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -43,7 +53,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Auxiliar de cozinha",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -53,17 +63,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Auxiliar de limpeza",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Alfabetizado",
       "salary": "Salário não informado",
       "description": "CLT meio período (30 horas semanais) Irá realizar limpeza de sala de yoga entre as aulas, e manutenção da limpeza dos vestiários/banheiros.",
-      "location_restriction": "Piracicaba e Região"
+      "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Auxiliar de manutenção predial",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -73,7 +83,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 8,
+      "id": 9,
+      "title": "Cartazista",
+      "deadline": "18/08/26 às 11:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.432,00",
+      "description": "Local de Trabalho: Santa Terezinha. Receber requisições para fazer e anexar cartazes e etiquetas; vistoriar os cartazes da loja; requisitar material de trabalho; desenvolver cartazes. Participar e decorar a loja conforme padrões de marketing e comunicação visual; elaborar cartazes manualmente e com a utilização de máquina; afixar cartazes e banners; executar funções correlacionadas visando o bom desempenho do setor e da unidade.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 10,
       "title": "Eletricista Automotivo",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -83,7 +103,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e  Rio das Pedras"
     },
     {
-      "id": 9,
+      "id": 11,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -93,7 +113,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 10,
+      "id": 12,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -103,7 +123,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 11,
+      "id": 13,
+      "title": "Operador de Empilhadeira",
+      "deadline": "18/08/26 às 11:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.640,00",
+      "description": "Local de Trabalho: Santa Terezinha. Ter CNH B e curso de Operador de Empilhadeira válido. Horário de trabalho: de seg a dom das 14h00 as 22h20  escala 6x1. Verificar sistema e condições de uso e limpeza da empilhadeira. Operar empilhadeira para o transporte de pallets na loja e no depósito. Organizar e abrir espaços no estoque e no aéreo.  Observar normas de segurança. Carregar e descarregar caminhão.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 14,
       "title": "Operador de escavadeira",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -113,7 +143,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 12,
+      "id": 15,
       "title": "Operador de Produção Rural",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -123,7 +153,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 13,
+      "id": 16,
       "title": "Pedreiro",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -133,7 +163,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 14,
+      "id": 17,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -143,7 +173,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 15,
+      "id": 18,
       "title": "Pintor de obras",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -153,7 +183,27 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 16,
+      "id": 19,
+      "title": "Serviços Gerais",
+      "deadline": "03/09/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Alfabetizado",
+      "salary": "R$ 2.341,73",
+      "description": "Local de Trabalho: Unileste. Manipulação de pescados - corte, embalagem, separação.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 20,
+      "title": "Vendedor",
+      "deadline": "21/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Alfabetizado",
+      "salary": "R$ 1.800,00",
+      "description": "Local de Trabalho: Centro. Prospecção de clientes por telefone e pessoalmente.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 21,
       "title": "Vendedor (a) B2B",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -163,7 +213,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 17,
+      "id": 22,
       "title": "Vendedor B2B",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -173,7 +223,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 18,
+      "id": 23,
       "title": "Vendedor de comércio varejista",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
