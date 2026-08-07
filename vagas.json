@@ -1,6 +1,6 @@
 {
-  "last_updated": "06/08/2026 às 14:18",
-  "total_jobs": 25,
+  "last_updated": "07/08/2026 às 00:04",
+  "total_jobs": 31,
   "jobs": [
     {
       "id": 1,
@@ -24,6 +24,16 @@
     },
     {
       "id": 3,
+      "title": "Ajudante de Obras",
+      "deadline": "28/08/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Alfabetizado",
+      "salary": "R$ 3.100,00",
+      "description": "Ter conhecimento, experiência comprovados e disponibilidade para viagens. Irá realizar serviços em construção e demolição de obras residenciais, comerciais e industriais. Irá auxiliar pedreiros no manuseio de blocos, tábuas e ferramentas; preparo de materiais: mistura massas, cimento, concreto e argamassas. Receber, descarregar e transportar materiais pesados. Organizar e empilhar insumos. Remover entulhos. Limpar e organizar ferramentas. Abrir valas, fossas ou buracos e auxiliar na demolição.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 4,
       "title": "Ajudante de Pátio de Sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -33,7 +43,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Ajudante de pátio de sucata",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -43,7 +53,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Ajudante de pintor",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -53,7 +63,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Ajudante Geral",
       "deadline": "14/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -63,7 +73,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Auxiliar de cozinha",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -73,17 +83,17 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 8,
-      "title": "Auxiliar de limpeza",
+      "id": 9,
+      "title": "Auxiliar de Limpeza",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
-      "education": "Alfabetizado",
+      "education": "Sem exigência de escolaridade",
       "salary": "Salário não informado",
-      "description": "CLT meio período (30 horas semanais) Irá realizar limpeza de sala de yoga entre as aulas, e manutenção da limpeza dos vestiários/banheiros.",
+      "description": "Local de trabalho: Bairro dos Alemães.Ter disponibilidade para atuar em ambiente de obras. Irá realizar a limpeza e conservação das áreas de vivência das obras (escritórios, refeitório, banheiros, etc). Manter os ambientes limpos, organizados e em boas condições de uso. Repor materiais de higiene e limpeza. Coletar e descartar resíduos nos locais apropriados.",
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Auxiliar de manutenção predial",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -93,7 +103,27 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 10,
+      "id": 11,
+      "title": "Auxiliar de Produção",
+      "deadline": "31/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.295,00",
+      "description": "Irá realizar a pesagem de materiais; Mistura de materiais; Ensacamento.",
+      "location_restriction": "Piracicaba, Americana, Limeira, São Pedro, Rio Das Pedras e Saltinho"
+    },
+    {
+      "id": 12,
+      "title": "Carpinteiro de obras",
+      "deadline": "28/08/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Alfabetizado",
+      "salary": "R$ 3.100,00",
+      "description": "Ter conhecimento, experiência comprovados e disponibilidade para viagens. Irá executar serviços de carpintaria na construção civil, como: confecção, montagem; desmontagem, escoramentos e estruturas; serviços de corte, montagem, ajuste e acabamento de peças; instalar escoramentos, travamentos e estruturas; realizar medições e marcações na execução dos serviços; operar ferramentas manuais e elétricas; efetuar reparos, ajustes e manutenção de formas e estruturas reutilizáveis.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 13,
       "title": "Cartazista",
       "deadline": "18/08/26 às 11:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -103,7 +133,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 11,
+      "id": 14,
       "title": "Eletricista Automotivo",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -113,7 +143,17 @@
       "location_restriction": "Piracicaba, Saltinho e  Rio das Pedras"
     },
     {
-      "id": 12,
+      "id": 15,
+      "title": "Encarregado de Obras",
+      "deadline": "21/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Sem exigência de escolaridade",
+      "salary": "Salário não informado",
+      "description": "Local de trabalho: Alemães. Ter vivência em obras de estruturas de concreto armado, conhecimento em leitura e interpretação de projetos estruturais. Coordenar e acompanhar as equipes durante a execução dos serviços. Garantir o cumprimento do cronograma e dos padrões de qualidade. Acompanhar a execução dos serviços conforme projetos e especificações técnicas. Controlar materiais, equipamentos e a produtividade da equipe. Garantir o cumprimento das normas de segurança no canteiro de obras",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 16,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -123,7 +163,7 @@
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 13,
+      "id": 17,
       "title": "Motorista de Van",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -133,7 +173,7 @@
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 14,
+      "id": 18,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -143,7 +183,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 15,
+      "id": 19,
       "title": "Operador de Empilhadeira",
       "deadline": "18/08/26 às 11:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -153,7 +193,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 16,
+      "id": 20,
       "title": "Operador de escavadeira",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -163,7 +203,7 @@
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 17,
+      "id": 21,
       "title": "Operador de Produção Rural",
       "deadline": "07/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -173,7 +213,7 @@
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 18,
+      "id": 22,
       "title": "Pedreiro",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -183,7 +223,17 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 19,
+      "id": 23,
+      "title": "Pedreiro",
+      "deadline": "28/08/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Alfabetizado",
+      "salary": "R$ 3.100,00",
+      "description": "Ter conhecimento, experiência comprovados e disponibilidade para viagens. Irá executar serviços de alvenaria, concreto, revestimentos e acabamentos; interpretar projetos, plantas e especificações; assentar blocos, tijolos, pisos, revestimentos cerâmicos e pedras; executar serviços de chapisco, emboço, reboco, contra piso; dar acabamento em concreto e alvenaria; realizar nivelamento, alinhamento, prumo e esquadro; concretagem, lançamento, adensamento; pequenos reparos e manutenção",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 24,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -193,7 +243,7 @@
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 20,
+      "id": 25,
       "title": "Pintor de obras",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -203,7 +253,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 21,
+      "id": 26,
       "title": "Serviços Gerais",
       "deadline": "03/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -213,7 +263,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 22,
+      "id": 27,
       "title": "Vendedor",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -223,7 +273,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 23,
+      "id": 28,
       "title": "Vendedor (a) B2B",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -233,7 +283,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 24,
+      "id": 29,
       "title": "Vendedor B2B",
       "deadline": "07/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -243,13 +293,23 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 25,
+      "id": 30,
       "title": "Vendedor de comércio varejista",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 1.890,00",
       "description": "Irá atender clientes; realizar vendas; realizar cadastro e atualização de dados de clientes; efetuar pós-venda; organizar, repor, precificar e manter a limpeza e a organização das mercadorias e do ambiente de vendas; montar vitrines; verificar estoque; conferir mercadorias; participar de inventários; registrar vendas, emitir notas fiscais, embalar produtos; realizar trocas conforme a política da empresa; apoiar as atividades de caixa quando autorizado; realizar abertura e fechamento da loja.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 31,
+      "title": "Zelador",
+      "deadline": "28/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.100,00",
+      "description": "Experiência prévia na função será um diferencial; ter conhecimentos básicos em manutenção predial (hidráulica, elétrica, pequenos reparos). Será responsável pela conservação, limpeza e organização das áreas comuns do local, realizando pequenos reparos, acompanhamento de serviços e garantindo o bom funcionamento das instalações.",
       "location_restriction": "Piracicaba"
     }
   ]
