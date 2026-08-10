@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "10/08/2026 às 07:46",
-  "total_jobs": 46,
+  "last_updated": "10/08/2026 às 13:14",
+  "total_jobs": 48,
   "jobs": [
     {
       "id": 1,
@@ -30,7 +30,7 @@ const VAGAS_DATA = {
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Hor de trab: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por prestar apoio às atividades do bar, auxiliando no preparo de bebidas, na organização da estação de trabalho e no atendimento às demandas da equipe; realiza o abastecimento e a reposição de bebidas, gelo, frutas, xaropes, utensílios e demais insumos; prepara guarnições e ingredientes utilizados na elaboração de drinks; mantém o bar limpo e abastecido; entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
       "id": 4,
@@ -104,6 +104,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 11,
+      "title": "Auxiliar de Cozinha",
+      "deadline": "27/08/26 às 11:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.180,00 (fixo + gorjeta)",
+      "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Auxiliar no preparo de alimentos, realizando a higienização, organização e pré-preparo de ingredientes, além de manter a limpeza da cozinha, utensílios e equipamentos. Presta suporte aos cozinheiros e demais profissionais da cozinha, seguindo os padrões de qualidade, higiene, segurança alimentar e procedimentos da empresa.",
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
+    },
+    {
+      "id": 12,
       "title": "Auxiliar de cozinha",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -113,17 +123,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Auxiliar de Estoque",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por receber, conferir, armazenar, organizar e controlar materiais, mercadorias e insumos, garantindo a correta identificação e conservação dos produtos. Realiza a separação e distribuição de itens para os setores solicitantes, auxilia no controle de entradas e saídas de mercadorias, participa dos inventários e contagens de estoque, entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Auxiliar de Limpeza",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -133,16 +143,6 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 14,
-      "title": "Auxiliar de Produção",
-      "deadline": "31/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2.295,00",
-      "description": "Irá realizar a pesagem de materiais; Mistura de materiais; Ensacamento.",
-      "location_restriction": "Piracicaba, Americana, Limeira, São Pedro, Rio Das Pedras e Saltinho"
-    },
-    {
       "id": 15,
       "title": "Auxiliar de Serviços Gerais",
       "deadline": "27/08/26 às 11:00",
@@ -150,7 +150,7 @@ const VAGAS_DATA = {
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por executar atividades de limpeza, conservação e organização das dependências da empresa, garantindo um ambiente limpo, seguro e adequado para colaboradores e clientes. Realiza a higienização de pisos, banheiros, vidros, móveis, equipamentos e áreas comuns, efetua a coleta e o descarte adequado de resíduos, entre outras.",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
       "id": 16,
@@ -160,7 +160,7 @@ const VAGAS_DATA = {
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por prestar suporte no preparo de pratos da culinária japonesa, auxiliando na higienização, seleção, corte e porcionamento de pescados, legumes, frutas e demais ingredientes. Realiza o preparo de insumos, molhos e acompanhamentos, organiza e abastece a estação de trabalho, auxilia na montagem de sushis, sashimis, temakis e demais preparações; entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
       "id": 17,
@@ -170,7 +170,7 @@ const VAGAS_DATA = {
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável pelo preparo, montagem e serviço de bebidas alcoólicas e não alcoólicas, garantindo a qualidade, a padronização e a apresentação dos produtos. Realiza o atendimento aos clientes no bar quando necessário, prepara coquetéis, drinks, cafés, sucos e outras bebidas, controla e organiza os insumos utilizados, realiza o abastecimento de bebidas, frutas, gelo, etc; entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
       "id": 18,
@@ -194,36 +194,46 @@ const VAGAS_DATA = {
     },
     {
       "id": 20,
+      "title": "Costureira de reparação de roupas",
+      "deadline": "28/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 130,00 por dia 3x na semana",
+      "description": "Irá realizar ajustes e consertos de roupas em geral",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 21,
       "title": "Cozinheiro",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável pelo preparo e elaboração de refeições, garantindo a qualidade, o sabor, a apresentação e a segurança dos alimentos.",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "Cozinheiro Líder",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por preparar e finalizar alimentos de acordo com os padrões de qualidade da empresa, além de coordenar as atividades da equipe de cozinha durante o turno, distribuindo tarefas e acompanhando a execução das operações. Orienta e apoia os colaboradores quanto às técnicas de preparo, boas práticas de manipulação de alimentos, entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "Cumim",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por prestar apoio à equipe de atendimento, auxiliando os garçons e demais profissionais do salão para garantir agilidade e qualidade no atendimento aos clientes. Realiza a preparação e organização das mesas antes da abertura e durante o funcionamento do restaurante, faz a reposição de utensílios, pratos, talheres, copos, guardanapos, auxilia no transporte de alimentos e bebidas; entre outras",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "Eletricista Automotivo",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -233,7 +243,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e  Rio das Pedras"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "Encarregado de Obras",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -243,17 +253,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "Garçom",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Atender  e recepcionar os clientes quando necessário, apresenta o cardápio, esclarece dúvidas, sugere pratos, bebidas e sobremesas, anota e transmite os pedidos à cozinha e ao bar, serve alimentos e bebidas e acompanha o atendimento. Também realiza a organização e preparação das mesas, confere os pedidos antes da entrega, auxilia no fechamento de contas quando aplicável; entre outras",
-      "location_restriction": "Piracicaba e região."
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "10/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -263,7 +273,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "Motorista de Van",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -273,7 +283,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "21/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -283,7 +293,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 29,
+      "id": 30,
       "title": "Operador de Caixa",
       "deadline": "12/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -293,7 +303,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 30,
+      "id": 31,
+      "title": "Operador de caixa",
+      "deadline": "21/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.271,00",
+      "description": "Local de Trabalho: Dois Córregos. Irá registrar produtos, receber pagamentos e realizar o atendimento ao cliente no fechamento de compras.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 32,
       "title": "Operador de Empilhadeira",
       "deadline": "18/08/26 às 11:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -303,7 +323,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 31,
+      "id": 33,
       "title": "Operador de escavadeira",
       "deadline": "10/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -313,7 +333,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 32,
+      "id": 34,
       "title": "Operador de Produção Rural",
       "deadline": "10/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -323,7 +343,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 33,
+      "id": 35,
       "title": "Operador de retro-escavadeira",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -333,7 +353,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Americana, Limeira, Santa Barbara D'Oeste, Rio Claro, Capivari, São Pedro e Região"
     },
     {
-      "id": 34,
+      "id": 36,
       "title": "Pedreiro",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -343,7 +363,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 35,
+      "id": 37,
       "title": "Pedreiro",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -353,7 +373,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 36,
+      "id": 38,
       "title": "Pintor (trabalho temporário e em altura)",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses comprovada em Carteira de Trabalho",
@@ -363,7 +383,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 37,
+      "id": 39,
       "title": "Pintor de obras",
       "deadline": "10/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -373,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 38,
+      "id": 40,
       "title": "Rasteleiro de asfalto",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -383,17 +403,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
     },
     {
-      "id": 39,
+      "id": 41,
       "title": "Recepcionista",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião.  Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável por recepcionar e acolher os clientes; realiza o atendimento presencial, telefônico e por aplicativos de mensagens; controla e organiza as reservas, administra a fila de espera quando necessário e direciona os clientes às mesas conforme disponibilidade; manter a recepção organizada, registrar e encaminhar sugestões, elogios ou reclamações; entre outras.",
-      "location_restriction": "Piracicaba e Região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 40,
+      "id": 42,
       "title": "Serviços Gerais",
       "deadline": "03/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -403,17 +423,17 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 41,
+      "id": 43,
       "title": "Sushiman",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.180,00 (fixo + gorjeta)",
       "description": "Local de Trabalho: Bairro Areião. Salário fixo + gorjeta. Horário de trabalho: das 08h00 as 16h00 ou das 16h00 as 23h00 - escala 6x1. Responsável pelo preparo, montagem e finalização de pratos da culinária japonesa; realiza a seleção, higienização, corte e porcionamento de pescados, frutos do mar, legumes, frutas e demais ingredientes, prepara sushis, sashimis, temakis, uramakis, hossomakis, hot rolls e outras especialidades da culinária oriental; controlar o armazenamento dos insumos; entre outras.",
-      "location_restriction": "Piracicaba e região"
+      "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 42,
+      "id": 44,
       "title": "Vendedor",
       "deadline": "21/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -423,7 +443,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 43,
+      "id": 45,
       "title": "Vendedor (a) B2B",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -433,7 +453,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 44,
+      "id": 46,
       "title": "Vendedor B2B",
       "deadline": "10/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -443,7 +463,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 45,
+      "id": 47,
       "title": "Vendedor de comércio varejista",
       "deadline": "14/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -453,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 46,
+      "id": 48,
       "title": "Zelador",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
