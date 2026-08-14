@@ -1,5 +1,5 @@
 const VAGAS_DATA = {
-  "last_updated": "14/08/2026 às 13:12",
+  "last_updated": "14/08/2026 às 18:57",
   "total_jobs": 64,
   "jobs": [
     {
@@ -268,7 +268,7 @@ const VAGAS_DATA = {
       "deadline": "20/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Fundamental Completo",
-      "salary": "R$ 2364,87",
+      "salary": "R$ 2.364,87",
       "description": "Local de trabalho: Bairro Conceição. Ter disponibilidade para trabalhar em escala 6x1, das 14h00 as 22h20. Irá executar as atividades de preparo de alimentos designadas e sob orientação do superior; Visando cumprir uma das etapas do processo de produção, montagem, higienização e preparo; Coletar e identificar amostras de alimentos; Participação de reuniões de planejamento de cardápio junto a nutricionista responsável.",
       "location_restriction": "Piracicaba"
     },
