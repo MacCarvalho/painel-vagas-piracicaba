@@ -1,5 +1,5 @@
 const VAGAS_DATA = {
-  "last_updated": "20/08/2026 às 06:50",
+  "last_updated": "20/08/2026 às 12:54",
   "total_jobs": 77,
   "jobs": [
     {
@@ -569,7 +569,7 @@ const VAGAS_DATA = {
       "experience": "Sem exigência de experiência",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.271,00",
-      "description": "Escala 6x1. Irá registrar mercadorias no PDV (Ponto de Venda) e realizar o processamento dos pagamentos; executar a abertura e o fechamento do caixa, garantindo a conferência e organização das operações; manter o ambiente de trabalho limpo e organizado; atender clientes com excelência, esclarecendo dúvidas e oferecendo suporte durante a jornada de compra.",
+      "description": "Local de trabalho Morumbi Escala 6x1. Irá registrar mercadorias no PDV (Ponto de Venda) e realizar o processamento dos pagamentos; executar a abertura e o fechamento do caixa, garantindo a conferência e organização das operações; manter o ambiente de trabalho limpo e organizado; atender clientes com excelência, esclarecendo dúvidas e oferecendo suporte durante a jornada de compra.",
       "location_restriction": "Piracicaba"
     },
     {
