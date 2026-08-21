@@ -1,11 +1,11 @@
 const VAGAS_DATA = {
-  "last_updated": "21/08/2026 às 12:52",
+  "last_updated": "21/08/2026 às 18:39",
   "total_jobs": 76,
   "jobs": [
     {
       "id": 1,
       "title": "1/2 Oficial Eletricista de instalações industriais",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.109,00",
@@ -15,7 +15,7 @@ const VAGAS_DATA = {
     {
       "id": 2,
       "title": "1/2 Oficial Encanador industrial",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Alfabetizado",
       "salary": "R$ 2.109,00",
@@ -75,7 +75,7 @@ const VAGAS_DATA = {
     {
       "id": 8,
       "title": "Ajudante de obras",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.189,97",
@@ -85,7 +85,7 @@ const VAGAS_DATA = {
     {
       "id": 9,
       "title": "Ajudante de obras",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Alfabetizado",
       "salary": "R$ 2.302,75",
@@ -95,7 +95,7 @@ const VAGAS_DATA = {
     {
       "id": 10,
       "title": "Ajudante de pátio de sucata",
-      "deadline": "04/09/26 às 15:00",
+      "deadline": "08/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.606,49",
@@ -144,6 +144,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 15,
+      "title": "Auxiliar Agrícola (temporária)",
+      "deadline": "31/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Ensino Fundamental Incompleto (Apresentar o histórico escolar ao CAT)",
+      "salary": "R$ 2.120,00",
+      "description": "Local de Trabalho: Fazenda Sto Antonio. Vaga temporária (270 dias). Atuará no campo. Preparar o solo (arar, gradear e adubar).   Realizar o plantio de culturas e manejo de cana. Fazer corte e colheita manual.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 16,
       "title": "Auxiliar de Cozinha",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -153,7 +163,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "Auxiliar de Estoque",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -163,37 +173,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 17,
-      "title": "Auxiliar de Limpeza",
-      "deadline": "31/08/26 às 15:00",
-      "experience": "Experiência de 4 a 6 meses",
-      "education": "Ensino Fundamental Incompleto (Apresentar o histórico escolar ao CAT)",
-      "salary": "R$ 2.000,00",
-      "description": "Local de trabalho: Unileste. Realizar serviços de limpeza nos setores administrativos, área de lazer e refeitório da empresa; Manter locais limpos e organizados; Repor materiais de higiene e limpeza; Prepara café e chá; Efetua a distribuição de garrafas térmicas nos departamentos da empresa.",
-      "location_restriction": "Piracicaba"
-    },
-    {
       "id": 18,
-      "title": "Auxiliar de limpeza",
-      "deadline": "28/08/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Fundamental Completo",
-      "salary": "R$ 1.893,48",
-      "description": "Ter experiência na função. Irá realizar a varrição, lavagem, desinfecção e remoção de resíduos em superfícies, incluindo pisos, janelas, banheiros e áreas comuns; repor materiais de higiene, como papel toalha, sabonetes e outros itens; recolher e descartar o lixo de maneira adequada; manusear produtos de limpeza de forma segura.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 19,
-      "title": "Auxiliar de limpeza",
-      "deadline": "28/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Médio Completo",
-      "salary": "Salário não informado",
-      "description": "Desejável experiência anterior com serviços de limpeza. CNH Ativa será um diferencial. Disponibilidade de horário. Irá realizar limpeza de janelas, vidros e portas, limpeza de barracão, receber lixo, limpeza de persianas, lavagem de banheiros, auxiliar na limpeza da cozinha, uso de máquina de lavar chão, lavagem de paredes, lavagem de quintal, área externa, varrição de grama e demais atividades de limpeza.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 20,
       "title": "Auxiliar de limpeza",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -203,9 +183,29 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
+      "id": 19,
+      "title": "Auxiliar de limpeza",
+      "deadline": "31/08/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 1.893,48",
+      "description": "Ter experiência na função. Irá realizar a varrição, lavagem, desinfecção e remoção de resíduos em superfícies, incluindo pisos, janelas, banheiros e áreas comuns; repor materiais de higiene, como papel toalha, sabonetes e outros itens; recolher e descartar o lixo de maneira adequada; manusear produtos de limpeza de forma segura.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 20,
+      "title": "Auxiliar de limpeza",
+      "deadline": "31/08/26 às 15:00",
+      "experience": "Sem exigência de experiência",
+      "education": "Ensino Médio Completo",
+      "salary": "Salário não informado",
+      "description": "Desejável experiência anterior com serviços de limpeza. CNH Ativa será um diferencial. Disponibilidade de horário. Irá realizar limpeza de janelas, vidros e portas, limpeza de barracão, receber lixo, limpeza de persianas, lavagem de banheiros, auxiliar na limpeza da cozinha, uso de máquina de lavar chão, lavagem de paredes, lavagem de quintal, área externa, varrição de grama e demais atividades de limpeza.",
+      "location_restriction": "Piracicaba"
+    },
+    {
       "id": 21,
       "title": "Auxiliar de Mecânico de motores a diesel",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Alfabetizado",
       "salary": "R$ 2.800,00",
@@ -235,7 +235,7 @@ const VAGAS_DATA = {
     {
       "id": 24,
       "title": "Auxiliar de Serviços Gerais",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Alfabetizado",
       "salary": "R$ 2.533,00",
@@ -345,7 +345,7 @@ const VAGAS_DATA = {
     {
       "id": 35,
       "title": "Costureira de reparação de roupas",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 130,00 por dia 3x na semana",
@@ -374,8 +374,18 @@ const VAGAS_DATA = {
     },
     {
       "id": 38,
+      "title": "Cozinheiro(a)",
+      "deadline": "31/08/26 às 15:00",
+      "experience": "Experiência de 6 meses",
+      "education": "Alfabetizado",
+      "salary": "Salário não informado",
+      "description": "Local de Trabalho: Centro. Ter experiência em preparo de refeições e noções de higiene e manipulação de alimentos. Fará as refeições, dará apoio nas compras dos mantimentos e na organização do local; entre outras.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 39,
       "title": "Cozinheiro(a) geral",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.421,05",
@@ -383,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 39,
+      "id": 40,
       "title": "Cumim",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -393,7 +403,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 40,
+      "id": 41,
       "title": "Eletricista",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -403,9 +413,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, São Pedro, Limeira, Saltinho e Americana."
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "Eletricista de instalações industriais",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 2.972,00",
@@ -413,7 +423,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 42,
+      "id": 43,
       "title": "Eletromecânico",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -423,9 +433,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Águas de São Pedro, Saltinho, Charqueada e São Pedro"
     },
     {
-      "id": 43,
+      "id": 44,
       "title": "Encanador",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Alfabetizado",
       "salary": "R$ 3.002,32",
@@ -433,7 +443,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "Garçom",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -443,7 +453,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "Líder de Logística",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -453,9 +463,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Limeira, Rio Claro e Santa Bárbara D'oeste ."
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "Maçariqueiro",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Alfabetizado",
       "salary": "R$ 2.937,00",
@@ -463,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Iracemápolis, Charqueada, Rio das Pedras"
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "Mecânico",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -473,9 +483,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, São Pedro, Limeira, Saltinho e Americana."
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Mecânico de manutenção de máquinas, em geral",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.500,00",
@@ -483,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "Mecânico Diesel",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -493,7 +503,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Americana e Santa Bárbara"
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "Motorista Carreteiro",
       "deadline": "24/08/26 às 10:30",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -503,9 +513,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região."
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "Motorista de Caminhão (3/4, Prancha, Basculante)",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 3.101,42",
@@ -513,19 +523,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 52,
-      "title": "Motorista de caminhão guincho pesado com munck",
-      "deadline": "28/08/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 3.340,63",
-      "description": "Ter CNH D; curso de Operador de Caminhão Munck (Guindauto) atualizado e certificado na NR-11. Ter disponibilidade para viagens e pernoite. Irá conduzir caminhão e operar o equipamento guindauto (Munck) articulado para içamento, carga, descarga e movimentação de materiais, máquinas e equipamentos. Avaliar e realizar o patolamento (estabilização) do caminhão ao iniciar qualquer operação de içamento. Realizar e inspecionar a amarração, cintagem e estilingamento correto das cargas e o içamento. Executar check-list diário do caminhão e equipamento.",
-      "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
-    },
-    {
       "id": 53,
       "title": "Motorista de caminhão Truck",
-      "deadline": "04/09/26 às 15:00",
+      "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.403,47",
@@ -554,6 +554,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 56,
+      "title": "Operador de Caixa",
+      "deadline": "09/09/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Alfabetizado",
+      "salary": "R$ 2.200,00",
+      "description": "Local de Trabalho: Jaraguá. Para trabalhar em açougue, de segunda a domingo e feriados  escala 6x1. Receber valores de vendas de produtos e serviços. Controlar numerários e valores, atender o público e entregar objetos postais, receber contas e tributos e processar remessa e pagamento de numerários, preencher formulários e relatórios administrativos. Registrar mercadorias usando leitor de código de barras ou sistema PDV. Receber valores em dinheiro, cartões ou PIX. Realizar a abertura e o fechamento do caixa; entre outras",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 57,
       "title": "Operador de caixa",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -563,9 +573,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 57,
+      "id": 58,
       "title": "Operador de empilhadeira",
-      "deadline": "04/09/26 às 15:00",
+      "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.403,47",
@@ -573,7 +583,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 58,
+      "id": 59,
       "title": "Operador de escavadeira hidráulica",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -583,9 +593,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 59,
+      "id": 60,
       "title": "Operador de Produção Rural",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.100,00",
@@ -593,9 +603,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 60,
+      "id": 61,
       "title": "Operador de retro-escavadeira",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 4.310,00",
@@ -603,9 +613,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Americana, Limeira, Santa Barbara D'Oeste, Rio Claro, Capivari, São Pedro e Região"
     },
     {
-      "id": 61,
+      "id": 62,
       "title": "Operador de Retroescavadeira",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 3.740,63",
@@ -613,7 +623,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 62,
+      "id": 63,
       "title": "Pedreiro",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -623,7 +633,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 63,
+      "id": 64,
       "title": "Pedreiro",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -633,7 +643,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 64,
+      "id": 65,
       "title": "Pintor",
       "deadline": "18/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -643,9 +653,9 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 65,
+      "id": 66,
       "title": "Rasteleiro de asfalto",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Alfabetizado",
       "salary": "R$ 2.302,75",
@@ -653,7 +663,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
     },
     {
-      "id": 66,
+      "id": 67,
       "title": "Recepcionista",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -663,7 +673,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 67,
+      "id": 68,
       "title": "Repositor de mercadorias",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -673,7 +683,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 68,
+      "id": 69,
       "title": "Salva-Vidas (vaga temporária)",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -683,7 +693,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 69,
+      "id": 70,
       "title": "Serralheiro",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -691,16 +701,6 @@ const VAGAS_DATA = {
       "salary": "R$ 2.817,79",
       "description": "Local de trabalho: Jardim Califórnia. Ter disponibilidade para viagens á Sorocaba, limeira, Rio Claro. Irá planejar, preparar, confeccionar, montar e reparar peças, esquadrias e estruturas metálicas usando materiais ferrosos e não ferrosos.",
       "location_restriction": "Piracicaba, Limeira e Rio Claro"
-    },
-    {
-      "id": 70,
-      "title": "Servente de Pedreiro",
-      "deadline": "28/08/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.477,90",
-      "description": "Local de trabalho: Jardim Califórnia. Ter disponibilidade para viagens e pernoite á Sorocaba. Irá executar tarefas de apoio na construção civil; Preparar o canteiro de obras; Transportar e organizar materiais; Preparar argamassa e concreto; Auxiliar o pedreiro nas estruturas de alvenaria e realizar demolições simples.",
-      "location_restriction": "Piracicaba"
     },
     {
       "id": 71,
@@ -715,7 +715,7 @@ const VAGAS_DATA = {
     {
       "id": 72,
       "title": "Soldador PEAD",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
       "education": "Ensino Médio Completo",
       "salary": "R$ 3.417,25",
@@ -755,7 +755,7 @@ const VAGAS_DATA = {
     {
       "id": 76,
       "title": "Zelador",
-      "deadline": "28/08/26 às 15:00",
+      "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.100,00",
