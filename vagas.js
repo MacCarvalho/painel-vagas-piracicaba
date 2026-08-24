@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "24/08/2026 às 07:03",
-  "total_jobs": 76,
+  "last_updated": "24/08/2026 às 12:54",
+  "total_jobs": 77,
   "jobs": [
     {
       "id": 1,
@@ -114,6 +114,16 @@ const VAGAS_DATA = {
     },
     {
       "id": 12,
+      "title": "Analista Financeiro",
+      "deadline": "30/09/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Superior Cursando (Apresentar a declaração de escolaridade ao CAT)",
+      "salary": "R$ 3.500,00",
+      "description": "Local de Trabalho: Bairro Santa Helena. Ter superior completo ou em andamento em Administração, Contabilidade ou áreas correlatas e veículo próprio para se deslocar até o local de trabalho. Executar e controlar as rotinas de contas a pagar e contas a receber; realizar baixas, conciliações bancárias e lançamentos no sistema; emitir boletos e acompanhar recebimentos; realizar cobrança de clientes inadimplentes e acompanhar acordos; controlar adiantamentos, saldos e pendências de clientes e fornecedores; entre outras.",
+      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
+    },
+    {
+      "id": 13,
       "title": "Assistente Técnico de Vendas (temporária)",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses comprovada em Carteira de Trabalho",
@@ -123,7 +133,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Atendente de Bar",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -133,7 +143,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Atendente Help Desk (Comercial e Financeiro)",
       "deadline": "30/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -143,7 +153,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Auxiliar Agrícola (temporária)",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -153,7 +163,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "Auxiliar de Cozinha",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -163,7 +173,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "Auxiliar de Estoque",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -173,7 +183,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "Auxiliar de limpeza",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -183,7 +193,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "Auxiliar de limpeza",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -193,7 +203,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "Auxiliar de limpeza",
       "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -203,7 +213,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "Auxiliar de Mecânico de motores a diesel",
       "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -213,7 +223,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Iracemápolis, Charqueada, Rio das Pedras"
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "Auxiliar de Produção",
       "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -223,7 +233,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Americana, Limeira, São Pedro, Rio Das Pedras e Saltinho"
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "Auxiliar de Serviços Gerais",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -233,7 +243,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "Auxiliar de Serviços Gerais",
       "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -243,7 +253,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "Auxiliar de Sushiman",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -253,7 +263,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "Balconista",
       "deadline": "30/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -263,7 +273,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "Balconista de Açougue",
       "deadline": "15/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -273,7 +283,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "Barman",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -283,7 +293,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 29,
+      "id": 30,
       "title": "Carpinteiro de obras",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -293,7 +303,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 30,
+      "id": 31,
       "title": "Cartazista",
       "deadline": "26/08/26 às 11:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -303,7 +313,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 31,
+      "id": 32,
       "title": "Consultor de Vendas",
       "deadline": "11/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -313,7 +323,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Limeira, Santa Barbara d'Oeste, Charqueada e Rio Claro"
     },
     {
-      "id": 32,
+      "id": 33,
       "title": "Controlador de Pragas",
       "deadline": "26/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -323,7 +333,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 33,
+      "id": 34,
       "title": "Coordenador de Frota (Logística e Manutenção)",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -333,7 +343,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 34,
+      "id": 35,
       "title": "Coordenador(a) Administrativo(a)",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -343,7 +353,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 35,
+      "id": 36,
       "title": "Costureira de reparação de roupas",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -353,7 +363,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 36,
+      "id": 37,
       "title": "Cozinheiro",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -363,7 +373,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 37,
+      "id": 38,
       "title": "Cozinheiro Líder",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -373,7 +383,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 38,
+      "id": 39,
       "title": "Cozinheiro(a)",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -383,7 +393,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 39,
+      "id": 40,
       "title": "Cozinheiro(a) geral",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -393,7 +403,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 40,
+      "id": 41,
       "title": "Cumim",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -403,7 +413,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "Eletricista",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -413,7 +423,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, São Pedro, Limeira, Saltinho e Americana."
     },
     {
-      "id": 42,
+      "id": 43,
       "title": "Eletricista de instalações industriais",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -423,7 +433,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 43,
+      "id": 44,
       "title": "Eletromecânico",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -433,7 +443,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Águas de São Pedro, Saltinho, Charqueada e São Pedro"
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "Encanador",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -443,7 +453,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "Garçom",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -453,7 +463,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "Líder de Logística",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -463,7 +473,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Limeira, Rio Claro e Santa Bárbara D'oeste ."
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "Maçariqueiro",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -473,7 +483,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Iracemápolis, Charqueada, Rio das Pedras"
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Mecânico",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -483,7 +493,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, São Pedro, Limeira, Saltinho e Americana."
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "Mecânico de manutenção de máquinas, em geral",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -493,7 +503,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "Mecânico Diesel",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -503,7 +513,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Americana e Santa Bárbara"
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "Motorista Carreteiro",
       "deadline": "24/08/26 às 10:30",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -513,7 +523,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região."
     },
     {
-      "id": 52,
+      "id": 53,
       "title": "Motorista de Caminhão (3/4, Prancha, Basculante)",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -523,7 +533,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Região"
     },
     {
-      "id": 53,
+      "id": 54,
       "title": "Motorista de caminhão Truck",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -533,7 +543,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 54,
+      "id": 55,
       "title": "Oficial de Manutenção Predial",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -543,7 +553,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Rio das Pedras, Águas de São Pedro, Saltinho, Charqueada e São Pedro"
     },
     {
-      "id": 55,
+      "id": 56,
       "title": "Oficial de Manutenção Predial (vaga temporária)",
       "deadline": "24/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -553,7 +563,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 56,
+      "id": 57,
       "title": "Operador de Caixa",
       "deadline": "09/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -563,7 +573,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 57,
+      "id": 58,
       "title": "Operador de caixa",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -573,7 +583,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 58,
+      "id": 59,
       "title": "Operador de empilhadeira",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -583,7 +593,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 59,
+      "id": 60,
       "title": "Operador de escavadeira hidráulica",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -593,7 +603,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 60,
+      "id": 61,
       "title": "Operador de Produção Rural",
       "deadline": "31/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -603,7 +613,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 61,
+      "id": 62,
       "title": "Operador de retro-escavadeira",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -613,7 +623,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Americana, Limeira, Santa Barbara D'Oeste, Rio Claro, Capivari, São Pedro e Região"
     },
     {
-      "id": 62,
+      "id": 63,
       "title": "Operador de Retroescavadeira",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -623,7 +633,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 63,
+      "id": 64,
       "title": "Pedreiro",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -633,7 +643,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 64,
+      "id": 65,
       "title": "Pedreiro",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -643,7 +653,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 65,
+      "id": 66,
       "title": "Pintor",
       "deadline": "18/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -653,7 +663,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 66,
+      "id": 67,
       "title": "Rasteleiro de asfalto",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -663,7 +673,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Americana, Limeira, Rio Claro, Capivari, Santa Barbara d'Oeste"
     },
     {
-      "id": 67,
+      "id": 68,
       "title": "Recepcionista",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -673,7 +683,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 68,
+      "id": 69,
       "title": "Repositor de mercadorias",
       "deadline": "24/08/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -683,7 +693,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 69,
+      "id": 70,
       "title": "Salva-Vidas (vaga temporária)",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -693,7 +703,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 70,
+      "id": 71,
       "title": "Serralheiro",
       "deadline": "28/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -703,7 +713,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Limeira e Rio Claro"
     },
     {
-      "id": 71,
+      "id": 72,
       "title": "Serviços Gerais",
       "deadline": "03/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -713,7 +723,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 72,
+      "id": 73,
       "title": "Soldador PEAD",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -723,7 +733,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Saltinho, Rio das Pedras"
     },
     {
-      "id": 73,
+      "id": 74,
       "title": "Sushiman",
       "deadline": "27/08/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -733,7 +743,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 74,
+      "id": 75,
       "title": "Técnico Instalador de Rede de Comunicação",
       "deadline": "30/08/26 às 15:00",
       "experience": "Experiência de 4 a 6 meses",
@@ -743,7 +753,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 75,
+      "id": 76,
       "title": "Vendedor B2B",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -753,7 +763,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 76,
+      "id": 77,
       "title": "Zelador",
       "deadline": "31/08/26 às 15:00",
       "experience": "Experiência de 6 meses",
