@@ -1,5 +1,5 @@
 {
-  "last_updated": "02/09/2026 às 16:12",
+  "last_updated": "02/09/2026 às 20:44",
   "total_jobs": 70,
   "jobs": [
     {
@@ -44,16 +44,6 @@
     },
     {
       "id": 5,
-      "title": "Ajudante de Mecânico",
-      "deadline": "30/09/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Técnico Cursando (Apresentar a declaração de escolaridade ao CAT)",
-      "salary": "R$ 2.750,00",
-      "description": "Local de Trabalho: Bairro Santa Helena. Estar cursando ou concluído Técnico em Mecânico Automotivo ou Diesel e ter veículo próprio para se deslocar até o local de trabalho. Auxiliar na manutenção preventiva e corretiva de veículos, caminhões, máquinas e equipamentos; apoiar na desmontagem, montagem, troca e ajuste de peças e componentes mecânicos; auxiliar em serviços de freios, embreagem, transmissão, direção e sistemas hidráulicos, pneumáticos e elétricos; entre outras.",
-      "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
-    },
-    {
-      "id": 6,
       "title": "Ajudante de Produção",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -63,7 +53,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Ajudante de Produção",
       "deadline": "30/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -73,7 +63,7 @@
       "location_restriction": "Piracicaba e Região Metropolitana"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Ajudante Geral",
       "deadline": "14/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -83,7 +73,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Ajudante Geral",
       "deadline": "25/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -93,7 +83,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 10,
+      "id": 9,
       "title": "Alimentador de linha de produção",
       "deadline": "08/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -103,7 +93,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 11,
+      "id": 10,
       "title": "Almoxarife",
       "deadline": "28/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -113,7 +103,7 @@
       "location_restriction": "Piracicaba, Saltinho, Americana, Hortolândia e Rio das Pedras."
     },
     {
-      "id": 12,
+      "id": 11,
       "title": "Analista de Pós Vendas",
       "deadline": "21/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -123,7 +113,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 13,
+      "id": 12,
       "title": "Analista Financeiro",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -133,7 +123,7 @@
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 14,
+      "id": 13,
       "title": "Assistente Administrativo",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -143,7 +133,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 15,
+      "id": 14,
       "title": "Assistente de vendas",
       "deadline": "30/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -153,7 +143,7 @@
       "location_restriction": "Piracicaba e Rio das Pedras."
     },
     {
-      "id": 16,
+      "id": 15,
       "title": "Assistente Financeiro",
       "deadline": "14/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -163,7 +153,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 17,
+      "id": 16,
       "title": "Assistente Técnico de Vendas (temporária)",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses comprovada em Carteira de Trabalho",
@@ -173,7 +163,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 18,
+      "id": 17,
       "title": "Atendente de lojas e mercados",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -183,7 +173,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 19,
+      "id": 18,
       "title": "Atendente Magistral",
       "deadline": "10/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -193,7 +183,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 20,
+      "id": 19,
       "title": "Auxiliar administrativo",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -201,6 +191,16 @@
       "salary": "R$ 2.280,00",
       "description": "Observações: Irá apoiar rotinas administrativas, organização e gerenciamento de documentos, atendimento ao público interno e externo, controle de agendas e compromissos, atendimento aos clientes, envio de propostas, contratos e recibos, controle e alimentação da planilha de CRM.",
       "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 20,
+      "title": "Auxiliar de Almoxarife",
+      "deadline": "28/09/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Médio Completo",
+      "salary": "R$ 2.500,00",
+      "description": "Local de Trabalho: Unileste. Auxiliar no recebimento de materiais e produtos entregues ao almoxarifado; auxiliar na organização do almoxarifado, classificando e armazenando os materiais de forma adequada e seguindo as normas de segurança; garantir que os materiais sejam armazenados de acordo com suas especificações; ajudar no controle de entradas e saídas de materiais; auxiliar na realização de inventários periódicos e na contagem de materiais; controlar a distribuição de materiais de uso contínuo; entre outras.",
+      "location_restriction": "Piracicaba, Hortolândia, Rio das Pedras, Saltinho, Rio Claro e Americana"
     },
     {
       "id": 21,
@@ -494,6 +494,16 @@
     },
     {
       "id": 50,
+      "title": "Mecânico Diesel",
+      "deadline": "30/09/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 4.500,00",
+      "description": "Local de Trabalho: Água Seca. Ter CNH A ou B (CNH D será um diferencial), veículo próprio para se deslocar até o local de trabalho e disponibilidade de viagem para Cosmópolis. Ter experiência com manutenção de ônibus; conhecimento em sistemas mecânicos, pneumáticos e injeção eletrônica; domínio na utilização e interpretação do aparelho de diagnóstico RASTER. Irá realizar manutenção preventiva e corretiva em ônibus; entre outras.",
+      "location_restriction": "Piracicaba, Rio das Pedras, Americana e Santa Bárbara"
+    },
+    {
+      "id": 51,
       "title": "Motoqueiro",
       "deadline": "15/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -503,7 +513,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "Operador de Caixa",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -513,7 +523,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 52,
+      "id": 53,
       "title": "Operador de Caixa",
       "deadline": "09/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -523,7 +533,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 53,
+      "id": 54,
       "title": "Operador de Caixa",
       "deadline": "15/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -533,7 +543,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 54,
+      "id": 55,
       "title": "Operador de escavadeira hidráulica",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -543,7 +553,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 55,
+      "id": 56,
       "title": "Operador de Máquinas",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -553,7 +563,7 @@
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 56,
+      "id": 57,
       "title": "Padeiro",
       "deadline": "04/09/26 às 11:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -563,7 +573,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 57,
+      "id": 58,
       "title": "Pedreiro",
       "deadline": "30/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -573,7 +583,7 @@
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 58,
+      "id": 59,
       "title": "Pedreiro",
       "deadline": "10/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -583,7 +593,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 59,
+      "id": 60,
       "title": "Pintor",
       "deadline": "18/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -593,7 +603,7 @@
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 60,
+      "id": 61,
       "title": "Pintor de obras",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -601,16 +611,6 @@
       "salary": "R$ 4.200,00",
       "description": "Ter NR 35. Irá preparar, pintar, realizar a manutenção de paredes, portas, janelas, corrimões, cadeiras, pisos, outras superfícies e estruturas da empresa como: cobertura, teto do salão, proteção das calhas e portões. Realizar a aplicação de massa corrida, verniz e texturizações. Desmontar, montar e assentar vidros, ferragens, aparelhagens elétricas e dispositivos de iluminação utilizando técnicas e, ferramentas apropriadas antes da pintura.",
       "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 61,
-      "title": "Porteiro",
-      "deadline": "02/09/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 2.031,57",
-      "description": "Local de Trabalho: Santa Rosa. Fará controle de acesso: verifica e autoriza a entrada de moradores, funcionários, visitantes e prestadores de serviço, utilizando sistemas manuais ou eletrônicos, como interfones, câmeras e portões automáticos. Recepção e orientação: recebe visitantes, entrega correspondências e encomendas, orienta pessoas sobre seus destinos e fornece informações básicas sobre o local. Comunicação com a administração, equipe de segurança e manutenção. Registro de ocorrências; entre outras.",
-      "location_restriction": "Piracicaba, Limeira e Saltinho"
     },
     {
       "id": 62,
