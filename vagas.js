@@ -1,6 +1,6 @@
 const VAGAS_DATA = {
-  "last_updated": "04/09/2026 às 03:35",
-  "total_jobs": 79,
+  "last_updated": "04/09/2026 às 10:52",
+  "total_jobs": 78,
   "jobs": [
     {
       "id": 1,
@@ -745,16 +745,6 @@ const VAGAS_DATA = {
     {
       "id": 75,
       "title": "Vendedor",
-      "deadline": "30/09/26 às 15:00",
-      "experience": "Sem exigência de experiência",
-      "education": "Ensino Médio Completo",
-      "salary": "R$ 3.593,00",
-      "description": "Local de Trabalho: Unileste. Será responsável pela carteira de pedidos, manutenção das demandas dos clientes, interação com o sistema operacional, conhecimento de medidas, produtos e suas aplicações e relacionamento com clientes. Emitir ordens de compra e de transferência; elaborar e emitir propostas comerciais recebidas por telefone, e-mail e whatsapp; negociar preços, prazos e especificações técnicas com clientes; realizar prospecção de clientes ativos e inativos; analisar roteiros de atendimento; entre outras",
-      "location_restriction": "Piracicaba e Rio das Pedras"
-    },
-    {
-      "id": 76,
-      "title": "Vendedor",
       "deadline": "10/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Médio Completo",
@@ -763,7 +753,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 77,
+      "id": 76,
       "title": "Vendedor de Comercio Varejista",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -773,7 +763,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 78,
+      "id": 77,
       "title": "Vendedor Farmer",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -783,7 +773,7 @@ const VAGAS_DATA = {
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 79,
+      "id": 78,
       "title": "Vendedor(a) de comércio varejista",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
