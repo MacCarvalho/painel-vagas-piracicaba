@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/09/2026 às 15:58",
-  "total_jobs": 72,
+  "last_updated": "04/09/2026 às 20:28",
+  "total_jobs": 74,
   "jobs": [
     {
       "id": 1,
@@ -504,6 +504,26 @@
     },
     {
       "id": 51,
+      "title": "Motorista de Caminhão",
+      "deadline": "16/09/26 às 11:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.571,60",
+      "description": "Local de Trabalho: Unileste. Ter CNH C, D ou E (definitivas) e ter disponibilidade de viagem para cidades próximas de Piracicaba. Para trabalhar de segunda a sábado, das 07h30 as 15h30 e ter disponibilidade para hora extra. Conferir a carga antes de sair; fazer entregas dos produtos respeitando os padrões exigidos pelos clientes; receber e conferir o pagamento das entregas realizadas; prestar contas ao cliente sobre o movimento financeiro do dia; entre outras",
+      "location_restriction": "Piracicaba e Rio das Pedras"
+    },
+    {
+      "id": 52,
+      "title": "Motorista Entregador",
+      "deadline": "16/09/26 às 11:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Ensino Fundamental Completo",
+      "salary": "R$ 2.699,60",
+      "description": "Local de Trabalho: Unileste. Ter CNH C, D ou E (definitivas) e ter disponibilidade de viagem para cidades próximas de Piracicaba. Para trabalhar de segunda a sábado, das 07h30 as 15h30 e ter disponibilidade para hora extra. Conferir a carga antes de sair; fazer entregas dos produtos respeitando os padrões exigidos pelos clientes; receber e conferir o pagamento das entregas realizadas; prestar contas ao cliente sobre o movimento financeiro do dia; entre outras",
+      "location_restriction": "Piracicaba e Rio das Pedras"
+    },
+    {
+      "id": 53,
       "title": "Operador de Caixa",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -513,7 +533,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 52,
+      "id": 54,
       "title": "Operador de Caixa",
       "deadline": "09/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -523,7 +543,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 53,
+      "id": 55,
       "title": "Operador de Caixa",
       "deadline": "15/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -533,7 +553,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 54,
+      "id": 56,
       "title": "Operador de escavadeira hidráulica",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -543,7 +563,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 55,
+      "id": 57,
       "title": "Operador de Máquinas",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -553,7 +573,7 @@
       "location_restriction": "Piracicaba, Saltinho e Rio das Pedras"
     },
     {
-      "id": 56,
+      "id": 58,
       "title": "Operador de Ponte Rolante",
       "deadline": "30/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -563,7 +583,7 @@
       "location_restriction": "Piracicaba, Iracemápolis, Tupi, Aguas, Charqueada e Artemis"
     },
     {
-      "id": 57,
+      "id": 59,
       "title": "Operador de Produção Rural",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -573,7 +593,7 @@
       "location_restriction": "Piracicaba, Charqueada, São Pedro e Região."
     },
     {
-      "id": 58,
+      "id": 60,
       "title": "Pedreiro",
       "deadline": "30/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -583,7 +603,7 @@
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 59,
+      "id": 61,
       "title": "Pedreiro",
       "deadline": "10/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -593,7 +613,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 60,
+      "id": 62,
       "title": "Pintor",
       "deadline": "18/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -603,7 +623,7 @@
       "location_restriction": "Piracicaba e Limeira"
     },
     {
-      "id": 61,
+      "id": 63,
       "title": "Pintor de obras",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -613,7 +633,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 62,
+      "id": 64,
       "title": "Recepcionista",
       "deadline": "15/09/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -623,7 +643,7 @@
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 63,
+      "id": 65,
       "title": "Serralheiro",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -633,7 +653,7 @@
       "location_restriction": "Piracicaba, Saltinho, Iracemápolis e Região"
     },
     {
-      "id": 64,
+      "id": 66,
       "title": "Serralheiro",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -643,7 +663,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 65,
+      "id": 67,
       "title": "Serviços Gerais",
       "deadline": "10/09/26 às 11:00",
       "experience": "Experiência de 1 a 3 meses",
@@ -653,7 +673,7 @@
       "location_restriction": "Piracicaba e região"
     },
     {
-      "id": 66,
+      "id": 68,
       "title": "Soldador",
       "deadline": "08/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -663,7 +683,7 @@
       "location_restriction": "Piracicaba, Saltinho, Iracemápolis e Região"
     },
     {
-      "id": 67,
+      "id": 69,
       "title": "Sushiman",
       "deadline": "15/09/26 às 11:00",
       "experience": "Experiência de 6 meses",
@@ -673,7 +693,7 @@
       "location_restriction": "Piracicaba, Iracemápolis, Saltinho, Charqueada"
     },
     {
-      "id": 68,
+      "id": 70,
       "title": "Técnico de Manutenção",
       "deadline": "14/09/26 às 10:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -683,7 +703,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 69,
+      "id": 71,
       "title": "Vendedor",
       "deadline": "10/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -693,7 +713,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 70,
+      "id": 72,
       "title": "Vendedor de Comercio Varejista",
       "deadline": "14/09/26 às 15:00",
       "experience": "Experiência de 6 meses",
@@ -703,7 +723,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 71,
+      "id": 73,
       "title": "Vendedor Farmer",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -713,7 +733,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 72,
+      "id": 74,
       "title": "Vendedor(a) de comércio varejista",
       "deadline": "21/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
