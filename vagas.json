@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/09/2026 às 16:10",
+  "last_updated": "09/09/2026 às 20:40",
   "total_jobs": 79,
   "jobs": [
     {
@@ -44,16 +44,6 @@
     },
     {
       "id": 5,
-      "title": "Ajudante de eletricista",
-      "deadline": "21/09/26 às 15:00",
-      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
-      "education": "Alfabetizado",
-      "salary": "R$ 2.123,00",
-      "description": "Ter disponibilidade para viagens no Estado e pernoite. Irá auxiliar na execução de serviços em instalações, reparos e consertos de instalações elétricas, serralheria e solda.",
-      "location_restriction": "Piracicaba"
-    },
-    {
-      "id": 6,
       "title": "Ajudante de Eletricista de Linha Inativa",
       "deadline": "25/06/26 às 15:00",
       "experience": "Sem exigência de experiência",
@@ -63,7 +53,7 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Ajudante de obras",
       "deadline": "21/09/26 às 15:00",
       "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
@@ -73,13 +63,23 @@
       "location_restriction": "Piracicaba"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Ajudante Geral",
       "deadline": "25/09/26 às 15:00",
       "experience": "Sem exigência de experiência",
       "education": "Ensino Fundamental Completo",
       "salary": "R$ 2.360,66",
       "description": "Local de trabalho: Paulicéia. Realiza trabalho em altura. Ter CNH B. Experiência na área de construção civil será um diferencial. Auxiliar o mecânico; Carga e descarga de materiais e ferramentas, preparação e posicionamento da tubulação para a solda, execução de furos / aberturas em pisos e paredes; Montagem de redes multicamada ou termo fusão. Pintura das estruturas com uso de pincel, operar máquinas de serra, etc. Fazendo uso do veículo da empresa para trabalhos externos; Entre outros.",
+      "location_restriction": "Piracicaba"
+    },
+    {
+      "id": 8,
+      "title": "Ajudante geral",
+      "deadline": "21/09/26 às 15:00",
+      "experience": "Experiência de 6 meses comprovada em Carteira de Trabalho",
+      "education": "Alfabetizado",
+      "salary": "R$ 2.123,00",
+      "description": "Ter disponibilidade para viagens no Estado e pernoite. Irá auxiliar na execução de serviços em instalações, reparos e consertos de instalações elétricas, serralheria e solda.",
       "location_restriction": "Piracicaba"
     },
     {
